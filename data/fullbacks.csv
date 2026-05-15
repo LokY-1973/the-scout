@@ -1,0 +1,950 @@
+Player,Nation,Pos,Squad,Comp,Age,MP,Min,TklW,Int,Clr,Blocks,Carries,PrgDist,FinalThird,Ast,KP,CrsPA
+Zach Abbott,eng ENG,DF,Nottingham Forest,eng Premier League,20-000,3,164,4,2,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Ali Abdi,tn TUN,"MF,DF",Nice,fr Ligue 1,32-144,21,1097,10,10,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Abner,br BRA,"DF,MF",Lyon,fr Ligue 1,25-351,25,2060,21,8,0.0,0.0,0.0,0.0,0.0,2,0.0,0.0
+Abdel Abqar,ma MAR,DF,Getafe,es La Liga,27-064,21,1328,16,20,0.0,0.0,0.0,0.0,0.0,2,0.0,0.0
+Mathieu Acapandié,mg MAD,"MF,DF",Nantes,fr Ligue 1,21-150,6,261,1,3,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Francesco Acerbi,it ITA,DF,Inter,it Serie A,38-092,17,1288,9,18,0.0,0.0,0.0,0.0,0.0,1,0.0,0.0
+Joshua Acheampong,eng ENG,DF,Chelsea,eng Premier League,20-008,15,587,7,11,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Tosin Adarabioyo,eng ENG,DF,Chelsea,eng Premier League,28-231,16,795,6,9,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Nathaniel Adjei,gh GHA,DF,Lorient,fr Ligue 1,23-265,14,763,7,6,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Jonas Adjetey,gh GHA,DF,Wolfsburg,de Bundesliga,22-151,4,137,1,1,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+David Affengruber,at AUT,DF,Elche,es La Liga,25-055,34,2769,46,47,0.0,0.0,0.0,0.0,0.0,1,0.0,0.0
+Emmanuel Agbadou,ci CIV,DF,Wolves,eng Premier League,28-330,14,1101,21,14,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Felix Agu,ng NGA,"DF,MF",Werder Bremen,de Bundesliga,26-228,11,744,14,11,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Diego Aguado,es ESP,DF,Real Madrid,es La Liga,19-095,1,30,1,0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Nayef Aguerd,ma MAR,DF,Marseille,fr Ligue 1,30-044,16,1396,16,21,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Nayef Aguerd,ma MAR,DF,West Ham United,eng Premier League,30-044,2,180,0,1,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Honest Ahanor,it ITA,DF,Atalanta,it Serie A,18-079,20,1197,17,21,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Lucas Ahijado,es ESP,DF,Oviedo,es La Liga,31-103,17,988,28,15,0.0,0.0,0.0,0.0,0.0,1,0.0,0.0
+Joseph Aidoo,gh GHA,DF,Celta Vigo,es La Liga,30-226,8,639,3,10,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Ola Aina,ng NGA,DF,Nottingham Forest,eng Premier League,29-217,18,1588,21,26,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Abdelhamid Ait Boudlal,ma MAR,DF,Rennes,fr Ligue 1,20-027,19,1313,11,17,0.0,0.0,0.0,0.0,0.0,1,0.0,0.0
+Rayan Aït-Nouri,dz ALG,DF,Manchester City,eng Premier League,24-341,15,870,20,13,0.0,0.0,0.0,0.0,0.0,2,0.0,0.0
+Kristoffer Ajer,no NOR,DF,Brentford,eng Premier League,28-026,26,1729,22,13,0.0,0.0,0.0,0.0,0.0,1,0.0,0.0
+Manuel Akanji,ch SUI,DF,Inter,it Serie A,30-298,33,2821,24,37,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Nathan Aké,nl NED,DF,Manchester City,eng Premier League,31-084,16,586,6,5,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Clément Akpa,ci CIV,DF,Auxerre,fr Ligue 1,24-170,26,1944,19,23,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Kevin Akpoguma,ng NGA,DF,Hoffenheim,de Bundesliga,31-024,7,46,1,1,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+David Alaba,at AUT,DF,Real Madrid,es La Liga,33-323,9,265,4,0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Raúl Albiol,es ESP,DF,Pisa,it Serie A,40-251,8,500,4,7,0.0,0.0,0.0,0.0,0.0,1,0.0,0.0
+Omar Alderete,py PAR,DF,Sunderland,eng Premier League,29-138,32,2776,18,36,0.0,0.0,0.0,0.0,0.0,1,0.0,0.0
+Trent Alexander-Arnold,eng ENG,DF,Real Madrid,es La Liga,27-218,19,1086,10,13,0.0,0.0,0.0,0.0,0.0,4,0.0,0.0
+Max Alleyne,eng ENG,DF,Manchester City,eng Premier League,20-296,2,135,3,3,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Marcos Alonso,es ESP,DF,Celta Vigo,es La Liga,35-136,30,2588,24,29,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Adrià Altimira,es ESP,"DF,MF",Villarreal,es La Liga,25-046,1,9,1,0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Yeray Álvarez,es ESP,DF,Athletic Club,es La Liga,31-109,4,333,1,6,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Aurele Amenda,ch SUI,DF,Eintracht Frankfurt,de Bundesliga,22-286,23,1588,11,29,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Kelvin Amian,fr FRA,DF,Nantes,fr Ligue 1,28-094,23,1961,18,8,0.0,0.0,0.0,0.0,0.0,1,0.0,0.0
+Michael Amir Murillo,pa PAN,"DF,MF",Marseille,fr Ligue 1,30-091,16,989,13,6,0.0,0.0,0.0,0.0,0.0,1,0.0,0.0
+Samuel Amo-Ameyaw,eng ENG,"MF,DF",Strasbourg,fr Ligue 1,19-299,24,1028,11,3,0.0,0.0,0.0,0.0,0.0,2,0.0,0.0
+Joachim Andersen,dk DEN,DF,Fulham,eng Premier League,29-347,33,2875,26,34,0.0,0.0,0.0,0.0,0.0,1,0.0,0.0
+Tomoya Ando,jp JPN,DF,St Pauli,de Bundesliga,27-123,14,1170,19,14,0.0,0.0,0.0,0.0,0.0,1,0.0,0.0
+Robert Andrich,de GER,"DF,MF",Leverkusen,de Bundesliga,31-233,31,2485,30,33,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Miguel Ángel Rubio,es ESP,DF,Espanyol,es La Liga,28-063,12,206,1,1,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Aaron Anselmino,ar ARG,DF,Dortmund,de Bundesliga,21-014,6,368,8,7,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Aaron Anselmino,ar ARG,DF,Strasbourg,fr Ligue 1,21-014,3,16,0,1,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Waldemar Anton,de GER,DF,Dortmund,de Bundesliga,29-297,31,2790,41,28,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Kyllian Antonio,fr FRA,DF,Lens,fr Ligue 1,18-129,2,121,3,5,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Jon Aramburu,ve VEN,DF,Real Sociedad,es La Liga,23-294,32,2604,60,43,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Ronald Araújo,uy URU,DF,Barcelona,es La Liga,27-067,22,998,10,10,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Carlens Arcus,ht HAI,DF,Angers,fr Ligue 1,29-319,25,2014,28,29,0.0,0.0,0.0,0.0,0.0,3,0.0,0.0
+Jesús Areso,es ESP,DF,Athletic Club,es La Liga,26-315,25,1436,15,20,0.0,0.0,0.0,0.0,0.0,1,0.0,0.0
+Iñigo Arguibide,es ESP,DF,Osasuna,es La Liga,21-024,6,187,3,1,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Raúl Asencio,es ESP,DF,Real Madrid,es La Liga,23-089,21,1528,11,8,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Lorenz Assignon,tg TOG,"DF,MF",Stuttgart,de Bundesliga,25-325,24,1094,15,15,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Otavio Ataide,br BRA,DF,Paris FC,fr Ligue 1,24-022,22,1818,26,26,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Zachary Athekame,ch SUI,"MF,DF",Milan,it Serie A,21-151,25,713,7,4,0.0,0.0,0.0,0.0,0.0,2,0.0,0.0
+Carlos Augusto,br BRA,"MF,DF",Inter,it Serie A,27-126,32,1583,21,17,0.0,0.0,0.0,0.0,0.0,1,0.0,0.0
+Yann Aurel Bisseck,de GER,DF,Inter,it Serie A,25-165,22,1832,17,21,0.0,0.0,0.0,0.0,0.0,1,0.0,0.0
+Chidozie Awaziem,ng NGA,DF,Nantes,fr Ligue 1,29-132,26,2231,20,20,0.0,0.0,0.0,0.0,0.0,2,0.0,0.0
+César Azpilicueta,es ESP,DF,Sevilla,es La Liga,36-258,15,1033,17,22,0.0,0.0,0.0,0.0,0.0,1,0.0,0.0
+Oussama El Azzouzi,ma MAR,"MF,DF",Auxerre,fr Ligue 1,24-349,11,807,15,16,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Loïc Bade,fr FRA,DF,Leverkusen,de Bundesliga,26-032,23,1653,19,21,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Benoît Badiashile,fr FRA,DF,Chelsea,eng Premier League,25-048,8,471,5,9,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Samson Baidoo,at AUT,DF,Lens,fr Ligue 1,22-043,22,1768,22,25,0.0,0.0,0.0,0.0,0.0,1,0.0,0.0
+Eric Bailly,ci CIV,DF,Oviedo,es La Liga,32-031,13,1054,9,15,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Ridle Baku,de GER,DF,RB Leipzig,de Bundesliga,28-035,31,2476,40,30,0.0,0.0,0.0,0.0,0.0,3,0.0,0.0
+Luís Balbo,ve VEN,DF,Fiorentina,it Serie A,20-046,4,180,5,1,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Alejandro Balde,es ESP,DF,Barcelona,es La Liga,22-207,25,1656,19,6,0.0,0.0,0.0,0.0,0.0,2,0.0,0.0
+Leonardo Balerdi,ar ARG,DF,Marseille,fr Ligue 1,27-107,25,1911,26,25,0.0,0.0,0.0,0.0,0.0,1,0.0,0.0
+Daniel Ballard,nir NIR,DF,Sunderland,eng Premier League,26-233,29,2149,17,20,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Carlos Ballestero,es ESP,DF,Alavés,es La Liga,22-019,1,1,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Iván Balliu,al ALB,DF,Rayo Vallecano,es La Liga,34-132,12,423,4,5,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Fodé Ballo-Touré,sn SEN,"DF,MF",Metz,fr Ligue 1,29-130,13,836,16,5,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Abdoulaye Bamba,ci CIV,DF,Angers,fr Ligue 1,36-018,5,191,3,3,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Noahkai Banks,us USA,DF,Augsburg,de Bundesliga,19-163,22,1695,25,18,0.0,0.0,0.0,0.0,0.0,1,0.0,0.0
+Melvin Bard,fr FRA,"DF,MF",Nice,fr Ligue 1,25-188,29,2394,29,41,0.0,0.0,0.0,0.0,0.0,1,0.0,0.0
+Davide Bartesaghi,it ITA,"MF,DF",Milan,it Serie A,20-135,29,2261,32,13,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Marc Bartra,es ESP,DF,Real Betis,es La Liga,35-118,25,1978,18,29,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Federico Baschirotto,it ITA,DF,Cremonese,it Serie A,29-235,29,2540,13,24,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Calvin Bassey,ng NGA,DF,Fulham,eng Premier League,26-133,28,2354,28,19,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Alessandro Bastoni,it ITA,DF,Inter,it Serie A,27-030,28,2239,39,21,0.0,0.0,0.0,0.0,0.0,4,0.0,0.0
+Elias Baum,de GER,DF,Eintracht Frankfurt,de Bundesliga,20-199,5,75,0,1,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Hannes Behrens,de GER,"DF,MF",Heidenheim,de Bundesliga,21-114,15,1228,16,16,0.0,0.0,0.0,0.0,0.0,2,0.0,0.0
+Luken Beitia,es ESP,DF,Real Sociedad,es La Liga,21-317,1,5,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Ismael Bekhoucha,ma MAR,DF,Getafe,es La Liga,21-174,4,122,5,2,0.0,0.0,0.0,0.0,0.0,1,0.0,0.0
+Stefan Bell,de GER,DF,Mainz 05,de Bundesliga,34-262,18,1039,6,19,0.0,0.0,0.0,0.0,0.0,1,0.0,0.0
+Armel Bella Kotchap,de GER,DF,Hellas Verona,it Serie A,24-153,18,1314,11,29,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Héctor Bellerín,es ESP,DF,Real Betis,es La Liga,31-055,25,1642,13,13,0.0,0.0,0.0,0.0,0.0,3,0.0,0.0
+Jeanuël Belocian,fr FRA,DF,Wolfsburg,de Bundesliga,21-085,13,1164,15,14,0.0,0.0,0.0,0.0,0.0,1,0.0,0.0
+Jeanuël Belocian,fr FRA,DF,Leverkusen,de Bundesliga,21-085,8,292,2,2,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Carlos Benavídez,uy URU,DF,Alavés,es La Liga,28-044,10,251,6,3,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Ramy Bensebaini,dz ALG,DF,Dortmund,de Bundesliga,31-027,21,1530,14,18,0.0,0.0,0.0,0.0,0.0,2,0.0,0.0
+Lucas Beraldo,br BRA,"DF,MF",Paris Saint-Germain,fr Ligue 1,22-170,18,1387,16,17,0.0,0.0,0.0,0.0,0.0,1,0.0,0.0
+Yuri Berchiche,es ESP,DF,Athletic Club,es La Liga,36-092,31,2615,29,34,0.0,0.0,0.0,0.0,0.0,5,0.0,0.0
+Bernardo,br BRA,DF,Hoffenheim,de Bundesliga,30-364,28,2237,39,39,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Nicolò Bertola,it ITA,"DF,MF",Udinese,it Serie A,23-051,26,1686,20,22,0.0,0.0,0.0,0.0,0.0,1,0.0,0.0
+Sam Beukema,nl NED,DF,Napoli,it Serie A,27-177,23,1591,17,14,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Matteo Bianchetti,it ITA,DF,Cremonese,it Serie A,33-057,25,2012,29,16,0.0,0.0,0.0,0.0,0.0,2,0.0,0.0
+Pedro Bigas,es ESP,DF,Elche,es La Liga,35-240,26,1883,19,27,0.0,0.0,0.0,0.0,0.0,2,0.0,0.0
+Jaka Bijol,si SVN,DF,Leeds United,eng Premier League,27-097,23,1731,13,22,0.0,0.0,0.0,0.0,0.0,2,0.0,0.0
+Cristiano Biraghi,it ITA,"MF,DF",Torino,it Serie A,33-254,14,517,7,3,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Tom Bischof,de GER,"DF,MF",Bayern Munich,de Bundesliga,20-319,25,1212,16,13,0.0,0.0,0.0,0.0,0.0,3,0.0,0.0
+Emmanuel Biumla,fr FRA,DF,Angers,fr Ligue 1,21-005,8,374,5,2,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Daley Blind,nl NED,DF,Girona,es La Liga,36-065,31,2606,34,38,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Sacha Boey,fr FRA,DF,Bayern Munich,de Bundesliga,25-242,9,463,4,7,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Lamare Bogarde,nl NED,"MF,DF",Aston Villa,eng Premier League,22-128,27,981,19,3,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Jayden Bogle,eng ENG,"MF,DF",Leeds United,eng Premier League,25-290,33,2716,40,29,0.0,0.0,0.0,0.0,0.0,2,0.0,0.0
+Adama Boiro,es ESP,DF,Athletic Club,es La Liga,23-325,12,635,8,15,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Moïse Bombito,ca CAN,DF,Nice,fr Ligue 1,26-044,2,145,1,2,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Javier Boñar,es ESP,DF,Atlético Madrid,es La Liga,20-344,3,269,3,0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Giovanni Bonfanti,it ITA,"DF,MF",Pisa,it Serie A,23-116,9,494,6,7,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Rahim Bonkano,ne NIG,DF,Oviedo,es La Liga,24-132,25,1547,18,26,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Sebastiaan Bornauw,be BEL,DF,Leeds United,eng Premier League,27-052,10,339,3,6,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Olivier Boscagli,fr FRA,DF,Brighton,eng Premier League,28-176,12,802,11,16,0.0,0.0,0.0,0.0,0.0,1,0.0,0.0
+Sebastián Boselli,uy URU,DF,Getafe,es La Liga,22-160,10,360,12,0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Sven Botman,nl NED,DF,Newcastle United,eng Premier League,26-121,23,1655,12,21,0.0,0.0,0.0,0.0,0.0,1,0.0,0.0
+Enzo Boyomo,cm CMR,DF,Osasuna,es La Liga,24-218,28,2362,33,14,0.0,0.0,0.0,0.0,0.0,1,0.0,0.0
+Rosen Bozhinov,bg BUL,DF,Pisa,it Serie A,21-110,8,520,4,12,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Conor Bradley,nir NIR,DF,Liverpool,eng Premier League,22-308,15,929,15,12,0.0,0.0,0.0,0.0,0.0,1,0.0,0.0
+Jarrad Branthwaite,eng ENG,DF,Everton,eng Premier League,23-320,10,680,6,11,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Lilian Brassier,fr FRA,DF,Rennes,fr Ligue 1,26-192,27,2250,13,38,0.0,0.0,0.0,0.0,0.0,1,0.0,0.0
+Gleison Bremer,br BRA,DF,Juventus,it Serie A,29-056,25,2081,13,28,0.0,0.0,0.0,0.0,0.0,3,0.0,0.0
+Abel Bretones,es ESP,"MF,DF",Osasuna,es La Liga,25-265,27,1558,12,15,0.0,0.0,0.0,0.0,0.0,2,0.0,0.0
+Sascha Britschgi,ch SUI,"MF,DF",Parma,it Serie A,19-259,28,2024,18,8,0.0,0.0,0.0,0.0,0.0,2,0.0,0.0
+Nathaniel Brown,de GER,"MF,DF",Eintracht Frankfurt,de Bundesliga,22-331,32,2566,55,25,0.0,0.0,0.0,0.0,0.0,4,0.0,0.0
+Hugo Bueno,es ESP,"MF,DF",Wolves,eng Premier League,23-237,33,2343,35,33,0.0,0.0,0.0,0.0,0.0,2,0.0,0.0
+Santiago Bueno,uy URU,DF,Wolves,eng Premier League,27-185,27,2373,30,22,0.0,0.0,0.0,0.0,0.0,1,0.0,0.0
+Alessandro Buongiorno,it ITA,DF,Napoli,it Serie A,26-341,32,2463,22,40,0.0,0.0,0.0,0.0,0.0,1,0.0,0.0
+Jan Bürger,de GER,"MF,DF",Wolfsburg,de Bundesliga,19-064,7,247,3,0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Vincent Burlet,be BEL,DF,Lille,fr Ligue 1,20-232,1,19,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Dan Burn,eng ENG,DF,Newcastle United,eng Premier League,34-004,27,2100,25,19,0.0,0.0,0.0,0.0,0.0,2,0.0,0.0
+Marnon Busch,de GER,"DF,MF",Heidenheim,de Bundesliga,31-156,28,1870,23,33,0.0,0.0,0.0,0.0,0.0,5,0.0,0.0
+Aurélio Buta,pt POR,DF,Eintracht Frankfurt,de Bundesliga,29-092,4,144,5,0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Jun'ai Byfield,eng ENG,DF,Tottenham Hotspur,eng Premier League,17-158,1,1,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Sam Byram,eng ENG,"DF,MF",Leeds United,eng Premier League,32-239,1,8,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Jorge Cabello,es ESP,DF,Levante,es La Liga,22-018,5,362,3,0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Leandro Cabrera,uy URU,DF,Espanyol,es La Liga,34-330,34,3060,23,21,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Arturo Calabresi,it ITA,DF,Pisa,it Serie A,30-057,24,1369,11,18,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Riccardo Calafiori,it ITA,DF,Arsenal,eng Premier League,23-359,24,1583,19,13,0.0,0.0,0.0,0.0,0.0,2,0.0,0.0
+Miguel Calatayud,es ESP,DF,Mallorca,es La Liga,20-017,1,21,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Fernando Calero,es ESP,DF,Espanyol,es La Liga,30-241,26,2031,16,28,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Duje Ćaleta-Car,hr CRO,DF,Real Sociedad,es La Liga,29-238,26,2060,14,28,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Dani Calvo,es ESP,DF,Oviedo,es La Liga,32-042,18,1431,12,8,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Adama Camara,fr FRA,"MF,DF",Paris FC,fr Ligue 1,29-207,28,2069,27,34,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Ousmane Camara,ml MLI,DF,Angers,fr Ligue 1,23-068,31,2628,29,34,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Andrea Cambiaso,it ITA,"MF,DF",Juventus,it Serie A,26-082,34,2639,38,20,0.0,0.0,0.0,0.0,0.0,4,0.0,0.0
+Emre Can,de GER,DF,Dortmund,de Bundesliga,32-121,9,621,8,13,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+João Cancelo,pt POR,DF,Barcelona,es La Liga,31-351,13,844,19,11,0.0,0.0,0.0,0.0,0.0,2,0.0,0.0
+Fali Candé,gw GNB,DF,Sassuolo,it Serie A,28-109,12,509,9,2,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Simone Canestrelli,it ITA,DF,Pisa,it Serie A,25-244,35,3021,25,30,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Jaydee Canvot,fr FRA,"MF,DF",Toulouse,fr Ligue 1,19-288,2,180,1,0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Jaydee Canvot,fr FRA,DF,Crystal Palace,eng Premier League,19-288,18,1156,20,9,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Nicolás Capaldo,ar ARG,"DF,MF",Hamburger SV,de Bundesliga,27-241,25,1911,45,35,0.0,0.0,0.0,0.0,0.0,2,0.0,0.0
+Antonio Caracciolo,it ITA,DF,Pisa,it Serie A,35-317,34,2983,44,51,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Sergi Cardona,es ESP,DF,Villarreal,es La Liga,26-309,29,1856,30,36,0.0,0.0,0.0,0.0,0.0,4,0.0,0.0
+Fábio Cardoso,pt POR,DF,Sevilla,es La Liga,32-024,4,295,3,4,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Igor Carioca,br BRA,DF,Lorient,fr Ligue 1,29-265,17,1213,19,13,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Diego Carlos,br BRA,DF,Como,it Serie A,33-059,26,1940,18,22,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+David Carmo,ao ANG,DF,Oviedo,es La Liga,26-298,22,1786,18,21,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Carmona,es ESP,"DF,MF",Sevilla,es La Liga,24-104,32,2316,37,39,0.0,0.0,0.0,0.0,0.0,3,0.0,0.0
+Álvaro Carreras,es ESP,DF,Real Madrid,es La Liga,23-051,26,2152,18,36,0.0,0.0,0.0,0.0,0.0,2,0.0,0.0
+Dani Carvajal,es ESP,DF,Real Madrid,es La Liga,34-122,14,777,9,4,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Nicolò Casale,it ITA,DF,Bologna,it Serie A,28-088,12,678,2,7,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Matty Cash,pl POL,DF,Aston Villa,eng Premier League,28-279,33,2879,31,23,0.0,0.0,0.0,0.0,0.0,3,0.0,0.0
+Timothy Castagne,be BEL,"DF,MF",Fulham,eng Premier League,30-159,28,1665,21,26,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Castrin,es ESP,DF,Sevilla,es La Liga,23-132,17,1182,12,20,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Jonny Castro,es ESP,DF,Alavés,es La Liga,32-071,34,2994,41,40,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Alessio Castro-Montes,be BEL,"MF,DF",Köln,de Bundesliga,28-361,13,604,16,4,0.0,0.0,0.0,0.0,0.0,3,0.0,0.0
+Catena,es ESP,DF,Osasuna,es La Liga,31-197,33,2891,27,32,0.0,0.0,0.0,0.0,0.0,2,0.0,0.0
+Federico Ceccherini,it ITA,DF,Cremonese,it Serie A,34-002,9,476,2,7,0.0,0.0,0.0,0.0,0.0,1,0.0,0.0
+Nidal Celik,ba BIH,DF,Lens,fr Ligue 1,19-300,7,526,9,8,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Zeki Çelik,tr TUR,"MF,DF",Roma,it Serie A,29-085,32,2543,37,19,0.0,0.0,0.0,0.0,0.0,2,0.0,0.0
+Fabien Centonze,fr FRA,"MF,DF",Nantes,fr Ligue 1,30-117,15,736,18,20,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Julian Chabot,de GER,DF,Stuttgart,de Bundesliga,28-090,26,2204,19,40,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+El Chadaille Bitshiabu,fr FRA,DF,RB Leipzig,de Bundesliga,20-362,11,655,6,6,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Trevoh Chalobah,eng ENG,DF,Chelsea,eng Premier League,26-312,32,2740,22,36,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Brendan Chardonnet,fr FRA,DF,Brest,fr Ligue 1,31-142,28,2456,18,33,0.0,0.0,0.0,0.0,0.0,3,0.0,0.0
+Pep Chavarría,es ESP,DF,Rayo Vallecano,es La Liga,28-033,31,2512,30,31,0.0,0.0,0.0,0.0,0.0,2,0.0,0.0
+Arthur Chaves,br BRA,DF,Hoffenheim,de Bundesliga,25-104,4,240,5,3,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Arthur Chaves,br BRA,DF,Augsburg,de Bundesliga,25-104,11,829,13,8,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Samir Chergui,dz ALG,DF,Paris FC,fr Ligue 1,27-096,14,1064,12,9,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Fabio Chiarodia,it ITA,DF,Gladbach,de Bundesliga,20-342,15,674,9,13,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Ben Chilwell,eng ENG,"DF,MF",Strasbourg,fr Ligue 1,29-143,20,1598,17,22,0.0,0.0,0.0,0.0,0.0,2,0.0,0.0
+Andreas Christensen,dk DEN,DF,Barcelona,es La Liga,30-033,12,380,3,2,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Víctor Chust,es ESP,DF,Elche,es La Liga,26-069,29,1992,32,20,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Alessandro Circati,au AUS,DF,Parma,it Serie A,22-215,29,2484,22,24,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Dennis Cirkin,lv LVA,DF,Sunderland,eng Premier League,24-037,8,323,5,5,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Pathé Ciss,sn SEN,"MF,DF",Rayo Vallecano,es La Liga,32-058,26,1848,32,31,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Amadou Cissé,gn GUI,DF,Strasbourg,fr Ligue 1,20-075,1,90,2,0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Jonathan Clauss,fr FRA,"MF,DF",Nice,fr Ligue 1,33-230,29,2453,37,47,0.0,0.0,0.0,0.0,0.0,6,0.0,0.0
+Saúl Coco,gq EQG,DF,Torino,it Serie A,27-093,33,2908,31,41,0.0,0.0,0.0,0.0,0.0,1,0.0,0.0
+Séamus Coleman,ie IRL,DF,Everton,eng Premier League,37-214,3,11,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Maxime Colin,fr FRA,DF,Metz,fr Ligue 1,34-179,21,1602,29,22,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Nathan Collins,ie IRL,DF,Brentford,eng Premier League,25-013,33,2795,11,34,0.0,0.0,0.0,0.0,0.0,2,0.0,0.0
+Nnamdi Collins,de GER,DF,Eintracht Frankfurt,de Bundesliga,22-123,23,1500,38,24,0.0,0.0,0.0,0.0,0.0,2,0.0,0.0
+Levi Colwill,eng ENG,DF,Chelsea,eng Premier League,23-076,2,135,1,3,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Eray Cömert,ch SUI,DF,Valencia,es La Liga,28-098,15,1178,13,20,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Pietro Comuzzo,it ITA,DF,Fiorentina,it Serie A,21-082,25,1579,15,22,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Lewis Cook,eng ENG,"MF,DF",Bournemouth,eng Premier League,29-099,16,872,17,21,0.0,0.0,0.0,0.0,0.0,1,0.0,0.0
+Copete,es ESP,DF,Valencia,es La Liga,26-215,21,1759,15,25,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Diego Coppola,it ITA,DF,Paris FC,fr Ligue 1,22-136,12,1080,9,7,0.0,0.0,0.0,0.0,0.0,2,0.0,0.0
+Diego Coppola,it ITA,DF,Brighton,eng Premier League,22-136,5,194,2,1,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Francesco Coppola,it ITA,DF,Pisa,it Serie A,21-032,7,458,5,5,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Derek Cornelius,ca CAN,"DF,FW",Marseille,fr Ligue 1,28-169,2,58,0,1,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Thierry Correia,pt POR,"DF,MF",Valencia,es La Liga,27-065,22,1363,20,17,0.0,0.0,0.0,0.0,0.0,1,0.0,0.0
+Danny da Costa,de GER,"DF,MF",Mainz 05,de Bundesliga,32-304,33,2650,26,29,0.0,0.0,0.0,0.0,0.0,3,0.0,0.0
+David Costas,es ESP,DF,Oviedo,es La Liga,31-048,23,1886,22,25,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Vladimír Coufal,cz CZE,"DF,MF",Hoffenheim,de Bundesliga,33-264,33,2922,33,37,0.0,0.0,0.0,0.0,0.0,8,0.0,0.0
+Abdoul Coulibaly,de GER,DF,Werder Bremen,de Bundesliga,18-355,26,2030,14,23,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Soumaïla Coulibaly,fr FRA,DF,Brest,fr Ligue 1,22-211,16,1338,12,13,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Woyo Coulibaly,ml MLI,DF,Sassuolo,it Serie A,26-352,18,874,13,8,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Nicolas Cozza,fr FRA,DF,Nantes,fr Ligue 1,27-125,29,2301,27,21,0.0,0.0,0.0,0.0,0.0,1,0.0,0.0
+Charlie Cresswell,eng ENG,DF,Toulouse,fr Ligue 1,23-269,29,2533,14,30,0.0,0.0,0.0,0.0,0.0,2,0.0,0.0
+Juan Cruz Armada,es ESP,DF,Osasuna,es La Liga,33-289,15,649,3,4,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Pau Cubarsí,es ESP,DF,Barcelona,es La Liga,19-111,30,2642,26,30,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Marc Cucurella,es ESP,DF,Chelsea,eng Premier League,27-295,32,2527,37,27,0.0,0.0,0.0,0.0,0.0,4,0.0,0.0
+Jorge Cuenca,es ESP,DF,Fulham,eng Premier League,26-177,14,933,10,15,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Montrell Culbreath,de GER,"MF,DF",Leverkusen,de Bundesliga,18-257,11,675,13,7,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Jair Cunha,br BRA,DF,Nottingham Forest,eng Premier League,21-067,7,448,5,4,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Ameen Al-Dakhil,be BEL,DF,Stuttgart,de Bundesliga,24-068,8,380,3,5,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Diogo Dalot,pt POR,"DF,MF",Manchester Utd,eng Premier League,27-056,33,2524,29,25,0.0,0.0,0.0,0.0,0.0,3,0.0,0.0
+Kevin Danso,at AUT,DF,Tottenham Hotspur,eng Premier League,27-236,22,1314,13,19,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Dante,br BRA,DF,Nice,fr Ligue 1,42-207,11,759,5,10,0.0,0.0,0.0,0.0,0.0,1,0.0,0.0
+Alphonso Davies,ca CAN,DF,Bayern Munich,de Bundesliga,25-192,13,525,6,3,0.0,0.0,0.0,0.0,0.0,3,0.0,0.0
+Ben Davies,wls WAL,DF,Tottenham Hotspur,eng Premier League,33-019,3,137,4,1,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Davinchi,es ESP,DF,Getafe,es La Liga,18-209,11,633,15,7,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Maxim De Cuyper,be BEL,"DF,MF",Brighton,eng Premier League,25-142,28,1280,10,9,0.0,0.0,0.0,0.0,0.0,3,0.0,0.0
+Lorenzo De Silvestri,it ITA,DF,Bologna,it Serie A,37-355,11,426,1,6,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Thibault De Smet,be BEL,DF,Paris FC,fr Ligue 1,27-342,17,1144,11,10,0.0,0.0,0.0,0.0,0.0,1,0.0,0.0
+Koni De Winter,be BEL,DF,Milan,it Serie A,23-335,25,1785,18,13,0.0,0.0,0.0,0.0,0.0,1,0.0,0.0
+Alessandro Deiola,it ITA,"MF,DF",Cagliari,it Serie A,30-285,18,1286,20,12,0.0,0.0,0.0,0.0,0.0,2,0.0,0.0
+Enrico Del Prato,it ITA,"DF,MF",Parma,it Serie A,26-184,34,2861,20,24,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Thomas Delaine,fr FRA,"MF,DF",Le Havre,fr Ligue 1,34-050,5,201,0,3,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Olivier Deman,be BEL,"DF,MF",Werder Bremen,de Bundesliga,26-037,15,1164,22,9,0.0,0.0,0.0,0.0,0.0,2,0.0,0.0
+Ali Dembélé,fr FRA,DF,Torino,it Serie A,22-128,2,21,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Rav van den Berg,nl NED,DF,Köln,de Bundesliga,21-310,14,1131,8,14,0.0,0.0,0.0,0.0,0.0,1,0.0,0.0
+Sepp van den Berg,nl NED,DF,Brentford,eng Premier League,24-144,30,2664,8,26,0.0,0.0,0.0,0.0,0.0,1,0.0,0.0
+Daniel Denoon,ch SUI,DF,Pisa,it Serie A,22-105,2,122,2,1,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Giovanni Di Lorenzo,it ITA,"DF,MF",Napoli,it Serie A,32-282,24,2099,26,9,0.0,0.0,0.0,0.0,0.0,1,0.0,0.0
+Alessandro Di Pardo,it ITA,"DF,MF",Cagliari,it Serie A,26-299,3,54,1,0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Bambo Diaby,sn SEN,DF,Elche,es La Liga,28-147,4,102,0,1,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Mouctar Diakhaby,gn GUI,DF,Valencia,es La Liga,29-145,8,543,6,9,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Bafodé Diakité,fr FRA,DF,Bournemouth,eng Premier League,25-127,18,1277,15,10,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Moussa Diarra,ml MLI,DF,Alavés,es La Liga,25-184,3,216,2,1,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Rúben Dias,pt POR,DF,Manchester City,eng Premier League,28-364,25,2051,6,22,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Krépin Diatta,sn SEN,"MF,DF",Monaco,fr Ligue 1,27-077,18,1013,16,15,0.0,0.0,0.0,0.0,0.0,1,0.0,0.0
+Julio Diaz,es ESP,DF,Atlético Madrid,es La Liga,21-123,4,310,3,4,0.0,0.0,0.0,0.0,0.0,1,0.0,0.0
+Junior Diaz,ci CIV,DF,Brest,fr Ligue 1,22-294,19,1472,15,23,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Eric Dier,eng ENG,DF,Monaco,fr Ligue 1,32-118,9,688,2,10,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Lucas Digne,fr FRA,DF,Aston Villa,eng Premier League,32-297,30,1762,25,12,0.0,0.0,0.0,0.0,0.0,5,0.0,0.0
+Kevin Diks,id IDN,DF,Gladbach,de Bundesliga,29-219,29,2374,29,24,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Sinaly Diomande,ci CIV,DF,Auxerre,fr Ligue 1,25-034,23,2041,16,32,0.0,0.0,0.0,0.0,0.0,2,0.0,0.0
+Issa Diop,ma MAR,DF,Fulham,eng Premier League,29-124,11,641,2,4,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+El Hadji Malick Diouf,sn SEN,"DF,MF",West Ham United,eng Premier League,21-136,30,2527,19,29,0.0,0.0,0.0,0.0,0.0,5,0.0,0.0
+Axel Disasi,fr FRA,DF,West Ham United,eng Premier League,28-063,12,1074,9,8,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Djené,tg TOG,"DF,MF",Getafe,es La Liga,34-133,32,2470,23,37,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Berat Djimsiti,al ALB,DF,Atalanta,it Serie A,33-083,32,2411,30,37,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Dodô,br BRA,"DF,MF",Fiorentina,it Serie A,27-177,34,2954,17,29,0.0,0.0,0.0,0.0,0.0,2,0.0,0.0
+Danilho Doekhi,nl NED,DF,Union Berlin,de Bundesliga,27-317,33,2970,31,41,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Matt Doherty,ie IRL,"DF,MF",Wolves,eng Premier League,34-117,11,787,8,7,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Josh Doig,sct SCO,DF,Sassuolo,it Serie A,23-360,30,1917,20,22,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Carlos Dominguez,es ESP,DF,Celta Vigo,es La Liga,25-091,8,610,8,5,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+John Donald,es ESP,"DF,MF",Elche,es La Liga,25-256,19,613,12,7,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Alberto Dossena,it ITA,DF,Cagliari,it Serie A,27-212,10,740,11,7,0.0,0.0,0.0,0.0,0.0,1,0.0,0.0
+Mamedi Doucouré,fr FRA,DF,Genoa,it Serie A,19-114,1,9,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Sékou Doucoure,fr FRA,DF,Nantes,fr Ligue 1,21-017,1,45,0,3,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Guela Doué,ci CIV,"DF,MF",Strasbourg,fr Ligue 1,23-208,22,1881,37,26,0.0,0.0,0.0,0.0,0.0,6,0.0,0.0
+Ismaël Doukouré,fr FRA,"DF,MF",Strasbourg,fr Ligue 1,22-293,24,1982,11,23,0.0,0.0,0.0,0.0,0.0,2,0.0,0.0
+Radu Drăgușin,ro ROU,DF,Tottenham Hotspur,eng Premier League,24-099,9,516,3,16,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Domingos Duarte,pt POR,DF,Getafe,es La Liga,31-064,31,2672,16,30,0.0,0.0,0.0,0.0,0.0,1,0.0,0.0
+Lewis Dunk,eng ENG,DF,Brighton,eng Premier League,34-173,31,2658,21,29,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Adam Dźwigała,pl POL,DF,St Pauli,de Bundesliga,30-230,18,1212,26,23,0.0,0.0,0.0,0.0,0.0,1,0.0,0.0
+Enzo Ebosse,cm CMR,DF,Hellas Verona,it Serie A,27-063,4,214,1,0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Enzo Ebosse,cm CMR,DF,Torino,it Serie A,27-063,11,935,6,8,0.0,0.0,0.0,0.0,0.0,1,0.0,0.0
+Andrias Edmundsson,fo FRO,DF,Hellas Verona,it Serie A,25-146,13,1139,15,26,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+CJ Egan-Riley,eng ENG,"DF,MF",Marseille,fr Ligue 1,23-131,11,624,7,2,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Kingsley Ehizibue,nl NED,"MF,DF",Udinese,it Serie A,30-353,31,1721,31,13,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Hjalmar Ekdal,se SWE,DF,Burnley,eng Premier League,27-204,19,1539,17,12,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Jacques Ekomie,ga GAB,"DF,MF",Angers,fr Ligue 1,22-267,31,2213,32,31,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Daniel Elfadli,ly LBY,DF,Hamburger SV,de Bundesliga,29-037,21,1253,14,20,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Unai Elgezabal,es ESP,"DF,MF",Levante,es La Liga,33-018,12,958,4,4,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Aritz Elustondo,es ESP,DF,Real Sociedad,es La Liga,32-046,14,623,7,10,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Nico Elvedi,ch SUI,DF,Gladbach,de Bundesliga,29-225,32,2876,31,38,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Wataru Endo,jp JPN,DF,Liverpool,eng Premier League,33-093,8,175,3,0,0.0,0.0,0.0,0.0,0.0,1,0.0,0.0
+Xavi Espart,es ESP,DF,Barcelona,es La Liga,18-357,2,91,1,5,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Alfonso Espino,uy URU,"DF,MF",Rayo Vallecano,es La Liga,34-128,27,1296,27,15,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Marco Esteban,es ESP,DF,Oviedo,es La Liga,20-132,1,45,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Maxime Estève,fr FRA,DF,Burnley,eng Premier League,23-352,33,2851,24,37,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Tomás Esteves,pt POR,"DF,MF",Pisa,it Serie A,24-040,1,14,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Wout Faes,be BEL,DF,Monaco,fr Ligue 1,28-040,13,1051,12,13,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Omar Falah,es ESP,DF,Oviedo,es La Liga,22-246,1,14,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Abdoulaye Faye,sn SEN,DF,Lorient,fr Ligue 1,21-233,16,1354,23,28,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Luiz Felipe,it ITA,DF,Rayo Vallecano,es La Liga,29-052,10,470,8,7,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Pedro Felipe,br BRA,DF,Sassuolo,it Serie A,21-355,1,2,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Kiko Femenía,es ESP,"DF,MF",Getafe,es La Liga,35-100,28,2008,24,36,0.0,0.0,0.0,0.0,0.0,1,0.0,0.0
+Manu Fernández,es ESP,DF,Celta Vigo,es La Liga,25-020,14,758,9,7,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Pelayo Fernandez,es ESP,DF,Rayo Vallecano,es La Liga,23-014,1,45,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Max Finkgräfe,de GER,DF,RB Leipzig,de Bundesliga,22-047,12,414,8,8,0.0,0.0,0.0,0.0,0.0,1,0.0,0.0
+Junior Firpo,do DOM,DF,Real Betis,es La Liga,29-264,11,737,13,9,0.0,0.0,0.0,0.0,0.0,1,0.0,0.0
+Kilian Fischer,de GER,DF,Wolfsburg,de Bundesliga,25-213,11,800,13,12,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Wesley Fofana,fr FRA,DF,Chelsea,eng Premier League,25-147,23,1581,11,32,0.0,0.0,0.0,0.0,0.0,1,0.0,0.0
+Jonas Föhrenbach,de GER,"DF,MF",Heidenheim,de Bundesliga,30-107,26,2235,25,33,0.0,0.0,0.0,0.0,0.0,1,0.0,0.0
+Francesco Folino,it ITA,DF,Cremonese,it Serie A,24-110,18,722,4,2,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Héctor Fort,es ESP,"DF,MF",Elche,es La Liga,19-284,13,475,3,5,0.0,0.0,0.0,0.0,0.0,2,0.0,0.0
+Dimitri Foulquier,fr FRA,DF,Valencia,es La Liga,33-051,15,1150,9,8,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Juan Foyth,ar ARG,DF,Villarreal,es La Liga,28-121,13,934,13,15,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Alejandro Francés,es ESP,DF,Girona,es La Liga,23-285,22,936,13,14,0.0,0.0,0.0,0.0,0.0,2,0.0,0.0
+Przemysław Frankowski,pl POL,"MF,DF",Rennes,fr Ligue 1,31-031,19,1210,25,9,0.0,0.0,0.0,0.0,0.0,2,0.0,0.0
+Tyler Fredricson,eng ENG,DF,Manchester Utd,eng Premier League,21-079,1,3,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Alex Freeman,us USA,DF,Villarreal,es La Liga,21-277,8,256,4,4,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Martin Frese,dk DEN,"MF,DF",Hellas Verona,it Serie A,28-129,29,2256,51,29,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Marco Friedl,at AUT,DF,Werder Bremen,de Bundesliga,28-058,29,2501,24,34,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Marvin Friedrich,de GER,DF,Gladbach,de Bundesliga,30-151,6,152,3,1,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Jeremie Frimpong,nl NED,"DF,MF",Liverpool,eng Premier League,25-154,20,1023,9,6,0.0,0.0,0.0,0.0,0.0,1,0.0,0.0
+Matteo Gabbia,it ITA,DF,Milan,it Serie A,26-204,28,2350,13,13,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Tiago Gabriel,pt POR,DF,Lecce,it Serie A,21-138,35,3039,38,45,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Javi Galán,es ESP,DF,Osasuna,es La Liga,31-175,18,1558,28,27,0.0,0.0,0.0,0.0,0.0,1,0.0,0.0
+Javi Galán,es ESP,DF,Atlético Madrid,es La Liga,31-175,5,134,2,1,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Antonino Gallo,it ITA,DF,Lecce,it Serie A,26-128,35,2876,37,14,0.0,0.0,0.0,0.0,0.0,4,0.0,0.0
+Ismaëlo Ganiou,fr FRA,DF,Lens,fr Ligue 1,21-060,21,1872,24,25,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Facundo Garcés,my MAS,DF,Alavés,es La Liga,26-250,10,793,8,7,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Andrés García,es ESP,DF,Aston Villa,eng Premier League,23-095,5,41,1,0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Eric García,es ESP,"DF,MF",Barcelona,es La Liga,25-124,32,2598,42,48,0.0,0.0,0.0,0.0,0.0,1,0.0,0.0
+Fran Garcia,es ESP,"DF,MF",Real Madrid,es La Liga,26-272,12,839,12,6,0.0,0.0,0.0,0.0,0.0,1,0.0,0.0
+Ulisses Garcia,ch SUI,"MF,DF",Marseille,fr Ligue 1,30-122,4,211,2,0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Ulisses Garcia,ch SUI,DF,Sassuolo,it Serie A,30-122,11,763,9,7,0.0,0.0,0.0,0.0,0.0,1,0.0,0.0
+James Garner,eng ENG,"MF,DF",Everton,eng Premier League,25-061,36,3233,69,54,0.0,0.0,0.0,0.0,0.0,7,0.0,0.0
+Erawan Garnier,th THA,DF,Lens,fr Ligue 1,20-128,1,7,1,0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Federico Gatti,it ITA,DF,Juventus,it Serie A,27-323,19,993,8,11,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Federico Gattoni,ar ARG,DF,Sevilla,es La Liga,27-086,1,10,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Jusuf Gazibegović,ba BIH,DF,Köln,de Bundesliga,26-063,1,23,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Jean-Philippe Gbamin,ci CIV,"DF,MF",Metz,fr Ligue 1,30-230,30,2459,27,27,0.0,0.0,0.0,0.0,0.0,1,0.0,0.0
+Lutsharel Geertruida,nl NED,"DF,MF",Sunderland,eng Premier League,25-299,26,1513,20,19,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Valentin Gendrey,fr FRA,DF,Hoffenheim,de Bundesliga,25-326,8,59,0,1,0.0,0.0,0.0,0.0,0.0,1,0.0,0.0
+Daniele Ghilardi,it ITA,DF,Roma,it Serie A,23-127,22,1052,13,21,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Mario Gila,es ESP,DF,Lazio,it Serie A,25-257,29,2337,33,24,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Benedikt Gimber,de GER,DF,Heidenheim,de Bundesliga,29-083,21,1436,21,15,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Matthias Ginter,de GER,DF,Freiburg,de Bundesliga,32-114,31,2762,14,22,0.0,0.0,0.0,0.0,0.0,3,0.0,0.0
+Maxima Goffi,fr FRA,DF,Lille,fr Ligue 1,18-110,1,39,1,0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Saba Goglichidze,ge GEO,DF,Udinese,it Serie A,21-322,8,424,8,8,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Edoardo Goldaniga,it ITA,DF,Como,it Serie A,32-192,2,15,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Toti Gomes,pt POR,DF,Wolves,eng Premier League,27-117,18,1399,11,13,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Joe Gomez,eng ENG,DF,Liverpool,eng Premier League,28-355,19,540,7,8,0.0,0.0,0.0,0.0,0.0,2,0.0,0.0
+Sergio Gómez,es ESP,DF,Real Sociedad,es La Liga,25-251,32,2510,49,29,0.0,0.0,0.0,0.0,0.0,4,0.0,0.0
+Valentín Gómez,ar ARG,DF,Real Betis,es La Liga,22-321,26,1780,25,23,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Rafael Gonçalves,pt POR,"MF,DF",Strasbourg,fr Ligue 1,21-084,12,588,10,4,0.0,0.0,0.0,0.0,0.0,1,0.0,0.0
+Nicolás González,ar ARG,"MF,DF",Atlético Madrid,es La Liga,28-037,24,1448,16,11,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Urko González,es ESP,"DF,MF",Real Sociedad,es La Liga,25-054,1,11,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Andoni Gorosabel,es ESP,DF,Athletic Club,es La Liga,29-282,21,1205,21,15,0.0,0.0,0.0,0.0,0.0,1,0.0,0.0
+Alimami Gory,ml MLI,"MF,DF",Paris FC,fr Ligue 1,29-256,23,958,11,8,0.0,0.0,0.0,0.0,0.0,1,0.0,0.0
+Robin Gosens,de GER,"DF,MF",Fiorentina,it Serie A,31-312,24,1733,17,18,0.0,0.0,0.0,0.0,0.0,1,0.0,0.0
+Jeffrey Gouweleeuw,nl NED,DF,Augsburg,de Bundesliga,34-307,10,758,7,12,0.0,0.0,0.0,0.0,0.0,1,0.0,0.0
+Jonathan Gradit,fr FRA,DF,Lens,fr Ligue 1,33-170,10,807,12,16,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Archie Gray,eng ENG,"MF,DF",Tottenham Hotspur,eng Premier League,20-062,23,1469,8,17,0.0,0.0,0.0,0.0,0.0,2,0.0,0.0
+Nemanja Gudelj,rs SRB,"DF,MF",Sevilla,es La Liga,34-178,31,2285,23,23,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Gabriel Gudmundsson,se SWE,"DF,MF",Leeds United,eng Premier League,27-014,32,2631,47,28,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Marc Guéhi,eng ENG,DF,Crystal Palace,eng Premier League,25-304,20,1800,19,24,0.0,0.0,0.0,0.0,0.0,2,0.0,0.0
+Marc Guéhi,eng ENG,DF,Manchester City,eng Premier League,25-304,13,1170,10,24,0.0,0.0,0.0,0.0,0.0,1,0.0,0.0
+Frederic Guilbert,fr FRA,"DF,MF",Nantes,fr Ligue 1,31-140,8,607,12,19,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Daouda Guindo,ml MLI,DF,Brest,fr Ligue 1,23-211,23,1515,26,28,0.0,0.0,0.0,0.0,0.0,1,0.0,0.0
+Christian Günter,de GER,DF,Freiburg,de Bundesliga,33-074,24,1547,12,10,0.0,0.0,0.0,0.0,0.0,3,0.0,0.0
+Malo Gusto,fr FRA,DF,Chelsea,eng Premier League,22-359,33,2177,23,29,0.0,0.0,0.0,0.0,0.0,3,0.0,0.0
+Miguel Gutiérrez,es ESP,"MF,DF",Napoli,it Serie A,24-290,26,1386,21,7,0.0,0.0,0.0,0.0,0.0,1,0.0,0.0
+Joško Gvardiol,hr CRO,DF,Manchester City,eng Premier League,24-110,16,1302,13,14,0.0,0.0,0.0,0.0,0.0,2,0.0,0.0
+Albian Hajdari,xk KVX,DF,Hoffenheim,de Bundesliga,22-360,29,2370,38,40,0.0,0.0,0.0,0.0,0.0,2,0.0,0.0
+Achraf Hakimi,ma MAR,DF,Paris Saint-Germain,fr Ligue 1,27-190,18,1375,13,11,0.0,0.0,0.0,0.0,0.0,2,0.0,0.0
+Lewis Hall,eng ENG,DF,Newcastle United,eng Premier League,21-247,28,2001,28,27,0.0,0.0,0.0,0.0,0.0,1,0.0,0.0
+Hilan Hamzaoui,fr FRA,DF,Marseille,fr Ligue 1,20-087,1,3,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Andreas Hanche-Olsen,no NOR,DF,Mainz 05,de Bundesliga,29-116,13,851,5,13,0.0,0.0,0.0,0.0,0.0,1,0.0,0.0
+Dávid Hancko,sk SVK,DF,Atlético Madrid,es La Liga,28-151,28,2297,27,19,0.0,0.0,0.0,0.0,0.0,2,0.0,0.0
+Florent Hanin,dz ALG,"DF,MF",Angers,fr Ligue 1,36-098,24,801,8,12,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Quilindschy Hartman,nl NED,DF,Burnley,eng Premier League,24-180,21,1825,31,32,0.0,0.0,0.0,0.0,0.0,5,0.0,0.0
+Hans Hateboer,nl NED,"DF,MF",Rennes,fr Ligue 1,32-124,1,22,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Hans Hateboer,nl NED,"DF,MF",Lyon,fr Ligue 1,32-124,14,695,10,9,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Jorrel Hato,nl NED,DF,Chelsea,eng Premier League,20-067,20,1007,18,13,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Ayden Heaven,eng ENG,DF,Manchester Utd,eng Premier League,19-233,17,924,13,1,0.0,0.0,0.0,0.0,0.0,1,0.0,0.0
+Jan Paul van Hecke,nl NED,DF,Brighton,eng Premier League,25-339,34,3030,30,42,0.0,0.0,0.0,0.0,0.0,3,0.0,0.0
+Torbjørn Heggem,no NOR,DF,Bologna,it Serie A,27-121,25,2013,17,24,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Dominique Heintz,de GER,DF,Köln,de Bundesliga,32-271,9,382,1,5,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Eivind Helland,no NOR,DF,Bologna,it Serie A,21-018,4,314,5,3,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Ramon Hendriks,nl NED,DF,Stuttgart,de Bundesliga,24-299,30,1935,13,22,0.0,0.0,0.0,0.0,0.0,3,0.0,0.0
+Benjamin Henrichs,de GER,DF,RB Leipzig,de Bundesliga,29-079,16,243,5,4,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Rico Henry,jm JAM,DF,Brentford,eng Premier League,28-309,25,1328,11,7,0.0,0.0,0.0,0.0,0.0,1,0.0,0.0
+Mario Hermoso,es ESP,DF,Roma,it Serie A,30-329,25,1905,19,28,0.0,0.0,0.0,0.0,0.0,2,0.0,0.0
+Lucas Hernández,fr FRA,DF,Paris Saint-Germain,fr Ligue 1,30-088,24,1687,14,21,0.0,0.0,0.0,0.0,0.0,3,0.0,0.0
+Jorge Herrando,es ESP,DF,Osasuna,es La Liga,25-074,27,1533,14,22,0.0,0.0,0.0,0.0,0.0,1,0.0,0.0
+Aaron Hickey,sct SCO,"DF,MF",Brentford,eng Premier League,23-337,20,660,7,7,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Isak Hien,se SWE,DF,Atalanta,it Serie A,27-120,27,1880,34,27,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Omar El Hilali,ma MAR,DF,Espanyol,es La Liga,22-243,33,2634,52,37,0.0,0.0,0.0,0.0,0.0,2,0.0,0.0
+James Hill,eng ENG,DF,Bournemouth,eng Premier League,24-123,27,1926,20,34,0.0,0.0,0.0,0.0,0.0,3,0.0,0.0
+Piero Hincapié,ec ECU,DF,Arsenal,eng Premier League,24-124,23,1683,25,24,0.0,0.0,0.0,0.0,0.0,2,0.0,0.0
+Piero Hincapié,ec ECU,DF,Leverkusen,de Bundesliga,24-124,1,90,0,2,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Ki-Jana Hoever,nl NED,"MF,DF",Wolves,eng Premier League,24-115,8,425,11,5,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Emil Holm,se SWE,DF,Bologna,it Serie A,26-000,11,655,13,7,0.0,0.0,0.0,0.0,0.0,4,0.0,0.0
+Robin Hranáč,cz CZE,DF,Hoffenheim,de Bundesliga,26-104,29,2251,15,20,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Timo Hübers,de GER,DF,Köln,de Bundesliga,29-297,8,675,9,10,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Dean Huijsen,es ESP,DF,Real Madrid,es La Liga,21-029,26,1923,18,17,0.0,0.0,0.0,0.0,0.0,2,0.0,0.0
+Trai Hume,nir NIR,"DF,MF",Sunderland,eng Premier League,24-056,36,2887,45,24,0.0,0.0,0.0,0.0,0.0,1,0.0,0.0
+Bashir Humphreys,eng ENG,"DF,MF",Burnley,eng Premier League,23-059,18,1479,17,10,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Elseid Hysaj,al ALB,DF,Lazio,it Serie A,32-082,5,174,0,2,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Lucas Høgsberg,dk DEN,DF,Strasbourg,fr Ligue 1,19-324,22,1701,9,13,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Riyad Idrissi,it ITA,"MF,DF",Cagliari,it Serie A,20-334,23,783,15,9,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Jay Idzes,id IDN,DF,Sassuolo,it Serie A,25-345,34,3008,15,37,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Iglesias,es ESP,DF,Getafe,es La Liga,27-314,34,2915,68,26,0.0,0.0,0.0,0.0,0.0,2,0.0,0.0
+Igor,br BRA,DF,West Ham United,eng Premier League,28-095,4,105,0,1,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Ardian Ismajli,al ALB,DF,Torino,it Serie A,29-225,24,1816,13,35,0.0,0.0,0.0,0.0,0.0,1,0.0,0.0
+Hiroki Ito,jp JPN,DF,Bayern Munich,de Bundesliga,27-001,16,920,3,13,0.0,0.0,0.0,0.0,0.0,2,0.0,0.0
+Jairo Izquierdo,es ESP,"DF,FW",Elche,es La Liga,32-203,1,24,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Jérémy Jacquet,fr FRA,DF,Rennes,fr Ligue 1,20-304,19,1671,17,22,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Kristijan Jakić,hr CRO,"MF,DF",Augsburg,de Bundesliga,28-364,26,1653,25,17,0.0,0.0,0.0,0.0,0.0,1,0.0,0.0
+Reece James,eng ENG,"DF,MF",Chelsea,eng Premier League,26-156,28,1924,33,32,0.0,0.0,0.0,0.0,0.0,4,0.0,0.0
+Luca Jaquez,ch SUI,DF,Stuttgart,de Bundesliga,22-345,13,880,7,11,0.0,0.0,0.0,0.0,0.0,1,0.0,0.0
+Gaby Jean,fr FRA,DF,Lecce,it Serie A,26-083,5,158,3,1,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Finn Jeltsch,de GER,DF,Stuttgart,de Bundesliga,19-300,22,1507,14,19,0.0,0.0,0.0,0.0,0.0,1,0.0,0.0
+Moritz Jenz,de GER,DF,Wolfsburg,de Bundesliga,27-013,22,1787,22,12,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Juan Jesus,br BRA,DF,Napoli,it Serie A,34-337,23,1630,20,26,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Álex Jiménez,es ESP,"DF,MF",Bournemouth,eng Premier League,21-005,31,2317,45,27,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Álex Jiménez,es ESP,DF,Milan,it Serie A,21-005,1,45,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+David Jiménez,es ESP,DF,Real Madrid,es La Liga,22-060,2,76,1,0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Curtis Jones,eng ENG,"MF,DF",Liverpool,eng Premier League,25-103,32,1757,20,16,0.0,0.0,0.0,0.0,0.0,2,0.0,0.0
+Josan,es ESP,"MF,DF",Elche,es La Liga,36-161,18,560,8,6,0.0,0.0,0.0,0.0,0.0,3,0.0,0.0
+Abdulai Juma Bah,sl SLE,DF,Nice,fr Ligue 1,20-032,26,1958,18,30,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Anthony Jung,de GER,DF,Freiburg,de Bundesliga,34-191,12,526,1,10,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+James Justin,eng ENG,"DF,MF",Leeds United,eng Premier League,28-079,27,1721,35,24,0.0,0.0,0.0,0.0,0.0,1,0.0,0.0
+Ozan Kabak,tr TUR,DF,Hoffenheim,de Bundesliga,26-049,24,1661,16,26,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Almugera Kabar,de GER,DF,Dortmund,de Bundesliga,19-341,1,16,1,0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Christian Kabasele,be BEL,DF,Udinese,it Serie A,35-078,28,2139,12,31,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Ferdi Kadioglu,tr TUR,"DF,MF",Brighton,eng Premier League,26-218,35,2953,38,24,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Pierre Kalulu,fr FRA,"DF,MF",Juventus,it Serie A,25-342,35,3101,35,24,0.0,0.0,0.0,0.0,0.0,4,0.0,0.0
+Hassane Kamara,ci CIV,"MF,DF",Udinese,it Serie A,32-069,25,1783,20,25,0.0,0.0,0.0,0.0,0.0,2,0.0,0.0
+Noham Kamara,fr FRA,DF,Lyon,fr Ligue 1,19-111,2,7,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Willy Kambwala,fr FRA,DF,Villarreal,es La Liga,21-261,1,10,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Steeve Kango,fr FRA,DF,Lyon,fr Ligue 1,19-155,4,80,1,0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Panos Katseris,gr GRE,"MF,DF",Lorient,fr Ligue 1,24-312,15,657,9,10,0.0,0.0,0.0,0.0,0.0,2,0.0,0.0
+Sota Kawasaki,jp JPN,"MF,DF",Mainz 05,de Bundesliga,24-287,10,309,5,3,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Michael Kayode,it ITA,DF,Brentford,eng Premier League,21-307,35,3078,45,39,0.0,0.0,0.0,0.0,0.0,1,0.0,0.0
+Michael Keane,eng ENG,DF,Everton,eng Premier League,33-122,31,2411,24,34,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Thilo Kehrer,de GER,DF,Monaco,fr Ligue 1,29-234,27,2333,39,31,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Yannik Keitel,de GER,DF,Augsburg,de Bundesliga,26-087,5,194,4,2,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Thomas Keller,de GER,DF,Heidenheim,de Bundesliga,26-281,4,188,1,0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Lloyd Kelly,eng ENG,DF,Juventus,it Serie A,27-219,33,2826,32,14,0.0,0.0,0.0,0.0,0.0,1,0.0,0.0
+Marc-Oliver Kempf,de GER,DF,Como,it Serie A,31-105,32,2155,8,11,0.0,0.0,0.0,0.0,0.0,1,0.0,0.0
+Milos Kerkez,hu HUN,DF,Liverpool,eng Premier League,22-187,32,2159,26,14,0.0,0.0,0.0,0.0,0.0,1,0.0,0.0
+Abdukodir Khusanov,uz UZB,DF,Manchester City,eng Premier League,22-073,19,1252,19,26,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Cassiano Kiala,de GER,DF,Bayern Munich,de Bundesliga,17-122,1,1,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Kialonda,ao ANG,DF,Lecce,it Serie A,28-228,22,1828,9,19,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Max Kilman,eng ENG,DF,West Ham United,eng Premier League,28-355,21,1561,8,6,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Lukas Klostermann,de GER,DF,RB Leipzig,de Bundesliga,29-344,5,95,0,1,0.0,0.0,0.0,0.0,0.0,1,0.0,0.0
+Ruben Kluivert,nl NED,DF,Lyon,fr Ligue 1,24-357,15,727,9,8,0.0,0.0,0.0,0.0,0.0,2,0.0,0.0
+Robin Koch,de GER,DF,Eintracht Frankfurt,de Bundesliga,29-300,31,2743,26,46,0.0,0.0,0.0,0.0,0.0,1,0.0,0.0
+Enzo Koffi Vinette,fr FRA,DF,Le Havre,fr Ligue 1,20-070,13,340,10,9,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Derrick Köhn,gh GHA,"MF,DF",Union Berlin,de Bundesliga,27-098,29,1899,22,8,0.0,0.0,0.0,0.0,0.0,2,0.0,0.0
+Dominik Kohr,de GER,DF,Mainz 05,de Bundesliga,32-102,28,2248,32,42,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Sead Kolašinac,ba BIH,DF,Atalanta,it Serie A,32-327,18,1209,18,11,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Adam Kölle,de GER,DF,Heidenheim,de Bundesliga,20-015,6,93,1,1,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Timothée Kolodziejczak,fr FRA,DF,Paris FC,fr Ligue 1,34-224,11,662,6,7,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Ibrahima Konaté,fr FRA,DF,Liverpool,eng Premier League,26-353,34,2912,30,28,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Geoffrey Kondogbia,cf CTA,"MF,DF",Marseille,fr Ligue 1,33-087,10,587,9,11,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Ezri Konsa,eng ENG,DF,Aston Villa,eng Premier League,28-202,33,2945,8,22,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Teun Koopmeiners,nl NED,"DF,MF",Juventus,it Serie A,28-074,31,1761,13,18,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Ville Koski,fi FIN,DF,Alavés,es La Liga,24-106,2,12,1,1,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Odilon Kossounou,ci CIV,DF,Atalanta,it Serie A,25-129,19,988,14,10,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Eddy Kouadio,ci CIV,DF,Fiorentina,it Serie A,19-348,3,72,3,0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Koffi Kouao,ci CIV,"DF,MF",Metz,fr Ligue 1,27-358,27,2265,46,28,0.0,0.0,0.0,0.0,0.0,1,0.0,0.0
+Christ-Owen Kouassi,fr FRA,DF,Lecce,it Serie A,23-028,4,228,6,1,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Konstantinos Koulierakis,gr GRE,DF,Wolfsburg,de Bundesliga,22-166,28,2392,23,34,0.0,0.0,0.0,0.0,0.0,1,0.0,0.0
+Seny Koumbassa,fr FRA,DF,Toulouse,fr Ligue 1,18-327,9,444,6,4,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Jules Koundé,fr FRA,DF,Barcelona,es La Liga,27-182,28,2081,24,28,0.0,0.0,0.0,0.0,0.0,3,0.0,0.0
+Hamza Koutoune,ma MAR,DF,Nice,fr Ligue 1,19-238,1,1,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Emil Krafth,se SWE,DF,Newcastle United,eng Premier League,31-284,1,45,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Tom Krauß,de GER,"MF,DF",Köln,de Bundesliga,24-325,26,1780,43,26,0.0,0.0,0.0,0.0,0.0,2,0.0,0.0
+Ladislav Krejčí,cz CZE,"DF,MF",Wolves,eng Premier League,27-023,26,2201,16,30,0.0,0.0,0.0,0.0,0.0,1,0.0,0.0
+Ladislav Krejčí,cz CZE,DF,Girona,es La Liga,27-023,2,180,0,1,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Rasmus Kristensen,dk DEN,"DF,MF",Eintracht Frankfurt,de Bundesliga,28-306,21,1459,33,19,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Thomas Kristensen,dk DEN,DF,Udinese,it Serie A,24-116,26,2324,15,26,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Lukas Kübler,de GER,DF,Freiburg,de Bundesliga,33-256,22,1556,23,31,0.0,0.0,0.0,0.0,0.0,2,0.0,0.0
+Sael Kumbedi,fr FRA,"DF,MF",Wolfsburg,de Bundesliga,21-048,23,1714,31,13,0.0,0.0,0.0,0.0,0.0,5,0.0,0.0
+Sael Kumbedi,fr FRA,DF,Lyon,fr Ligue 1,21-048,1,65,0,1,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Marash Kumbulla,al ALB,DF,Mallorca,es La Liga,26-094,8,439,2,2,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Adrián de la Fuente,es ESP,DF,Levante,es La Liga,27-076,31,2531,16,47,0.0,0.0,0.0,0.0,0.0,1,0.0,0.0
+Maxence Lacroix,fr FRA,DF,Crystal Palace,eng Premier League,26-037,33,2935,36,43,0.0,0.0,0.0,0.0,0.0,2,0.0,0.0
+Yoel Lago,es ESP,DF,Celta Vigo,es La Liga,22-049,10,758,8,6,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Konrad Laimer,at AUT,DF,Bayern Munich,de Bundesliga,28-351,28,1949,23,17,0.0,0.0,0.0,0.0,0.0,9,0.0,0.0
+Kenny Lala,mg MAD,DF,Brest,fr Ligue 1,34-222,30,2611,25,25,0.0,0.0,0.0,0.0,0.0,2,0.0,0.0
+Aymeric Laporte,es ESP,DF,Athletic Club,es La Liga,31-351,23,1878,15,23,0.0,0.0,0.0,0.0,0.0,1,0.0,0.0
+Jamaal Lascelles,eng ENG,DF,Newcastle United,eng Premier League,32-183,2,21,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Toni Lato,es ESP,"DF,MF",Mallorca,es La Liga,28-173,11,499,7,5,0.0,0.0,0.0,0.0,0.0,1,0.0,0.0
+Josh Laurent,eng ENG,"DF,MF",Burnley,eng Premier League,31-007,32,1744,24,28,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Manuel Lazzari,it ITA,DF,Lazio,it Serie A,32-165,21,917,8,6,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Julien Le Cardinal,fr FRA,DF,Brest,fr Ligue 1,28-283,5,328,5,3,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Raphael Le Guen,fr FRA,DF,Brest,fr Ligue 1,19-254,4,195,0,7,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Robin Le Normand,es ESP,DF,Atlético Madrid,es La Liga,29-183,27,1699,16,20,0.0,0.0,0.0,0.0,0.0,1,0.0,0.0
+Jordan Lefort,mr MTN,DF,Angers,fr Ligue 1,32-277,33,2970,31,46,0.0,0.0,0.0,0.0,0.0,2,0.0,0.0
+Diogo Leite,pt POR,DF,Union Berlin,de Bundesliga,27-110,22,1873,14,43,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Maxim Leitsch,de GER,DF,Mainz 05,de Bundesliga,27-360,3,162,1,5,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Florian Lejeune,fr FRA,DF,Rayo Vallecano,es La Liga,34-358,34,3050,41,45,0.0,0.0,0.0,0.0,0.0,1,0.0,0.0
+Youssef Lekhedim,es ESP,"DF,MF",Alavés,es La Liga,20-218,24,1290,9,12,0.0,0.0,0.0,0.0,0.0,1,0.0,0.0
+Iñigo Lekue,es ESP,DF,Athletic Club,es La Liga,33-009,10,569,10,4,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Louis Lemke,de GER,DF,Hamburger SV,de Bundesliga,16-217,1,1,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Ruben Lendinez,es ESP,DF,Valencia,es La Liga,23-060,1,4,1,0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Clément Lenglet,fr FRA,DF,Atlético Madrid,es La Liga,30-330,17,1273,8,19,0.0,0.0,0.0,0.0,0.0,1,0.0,0.0
+Jefferson Lerma,co COL,"MF,DF",Crystal Palace,eng Premier League,31-200,28,1536,15,20,0.0,0.0,0.0,0.0,0.0,2,0.0,0.0
+Louis Leroux,fr FRA,"MF,DF",Nantes,fr Ligue 1,20-110,23,1441,23,5,0.0,0.0,0.0,0.0,0.0,1,0.0,0.0
+Rico Lewis,eng ENG,DF,Manchester City,eng Premier League,21-173,10,317,4,7,0.0,0.0,0.0,0.0,0.0,1,0.0,0.0
+Keane Lewis-Potter,eng ENG,"DF,MF",Brentford,eng Premier League,25-080,34,1794,13,8,0.0,0.0,0.0,0.0,0.0,3,0.0,0.0
+Myles Lewis-Skelly,eng ENG,"MF,DF",Arsenal,eng Premier League,19-229,18,601,5,4,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Philipp Lienhart,at AUT,DF,Freiburg,de Bundesliga,29-306,19,1212,13,13,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Matthijs de Ligt,nl NED,DF,Manchester Utd,eng Premier League,26-274,13,1170,13,11,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Victor Lindelöf,se SWE,"DF,MF",Aston Villa,eng Premier League,31-300,15,831,3,6,0.0,0.0,0.0,0.0,0.0,1,0.0,0.0
+Pol Lirola,es ESP,"DF,MF",Marseille,fr Ligue 1,28-273,3,34,0,1,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Valentino Livramento,eng ENG,DF,Newcastle United,eng Premier League,23-182,17,1328,14,2,0.0,0.0,0.0,0.0,0.0,1,0.0,0.0
+Diego Llorente,es ESP,DF,Real Betis,es La Liga,32-270,17,1139,13,27,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Marcos Llorente,es ESP,"DF,MF",Atlético Madrid,es La Liga,31-103,28,2091,40,13,0.0,0.0,0.0,0.0,0.0,4,0.0,0.0
+Gautier Lloris,fr FRA,DF,Le Havre,fr Ligue 1,30-299,28,2308,24,43,0.0,0.0,0.0,0.0,0.0,1,0.0,0.0
+Bradley Locko,fr FRA,DF,Brest,fr Ligue 1,24-007,20,1277,28,9,0.0,0.0,0.0,0.0,0.0,2,0.0,0.0
+David López,es ESP,DF,Girona,es La Liga,36-216,4,203,1,0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+David López,es ESP,DF,Mallorca,es La Liga,23-099,12,702,5,9,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Javi López,es ESP,DF,Oviedo,es La Liga,24-049,23,1607,23,18,0.0,0.0,0.0,0.0,0.0,1,0.0,0.0
+Marius Louer,fr FRA,DF,Angers,fr Ligue 1,19-063,9,543,16,2,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Lucas,br BRA,"MF,DF",Burnley,eng Premier League,25-050,18,1229,19,15,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Jhon Lucumí,co COL,DF,Bologna,it Serie A,27-321,28,2197,21,29,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Oier Luengo,es ESP,DF,Oviedo,es La Liga,28-183,3,225,5,2,0.0,0.0,0.0,0.0,0.0,1,0.0,0.0
+José Luis Gayà,es ESP,DF,Valencia,es La Liga,30-353,31,2386,43,22,0.0,0.0,0.0,0.0,0.0,2,0.0,0.0
+Castello Lukeba,fr FRA,DF,RB Leipzig,de Bundesliga,23-147,25,2086,12,31,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Kristoffer Lund,us USA,"DF,MF",Köln,de Bundesliga,23-364,32,2186,25,28,0.0,0.0,0.0,0.0,0.0,2,0.0,0.0
+Sebastiano Luperto,it ITA,DF,Cremonese,it Serie A,29-249,13,1127,8,10,0.0,0.0,0.0,0.0,0.0,1,0.0,0.0
+Sebastiano Luperto,it ITA,DF,Cagliari,it Serie A,29-249,19,1706,12,19,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Iker Luque,es ESP,DF,Atlético Madrid,es La Liga,20-342,1,28,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Mateus Lusuardi,br BRA,DF,Pisa,it Serie A,22-125,3,198,2,0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Babis Lykogiannis,gr GRE,DF,Bologna,it Serie A,32-203,10,627,10,6,0.0,0.0,0.0,0.0,0.0,1,0.0,0.0
+Ian Maatsen,nl NED,DF,Aston Villa,eng Premier League,24-064,28,1509,29,16,0.0,0.0,0.0,0.0,0.0,1,0.0,0.0
+Deiver Machado,co COL,"DF,MF",Nantes,fr Ligue 1,32-253,14,907,16,8,0.0,0.0,0.0,0.0,0.0,1,0.0,0.0
+Koki Machida,jp JPN,DF,Hoffenheim,de Bundesliga,28-261,1,44,0,1,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Pablo Maffeo,es ESP,DF,Mallorca,es La Liga,28-305,28,2392,29,32,0.0,0.0,0.0,0.0,0.0,1,0.0,0.0
+Gabriel Magalhães,br BRA,DF,Arsenal,eng Premier League,28-145,30,2616,20,22,0.0,0.0,0.0,0.0,0.0,4,0.0,0.0
+Harry Maguire,eng ENG,DF,Manchester Utd,eng Premier League,33-069,21,1473,14,11,0.0,0.0,0.0,0.0,0.0,2,0.0,0.0
+Patrick Mainka,de GER,DF,Heidenheim,de Bundesliga,31-188,33,2970,30,32,0.0,0.0,0.0,0.0,0.0,2,0.0,0.0
+Ainsley Maitland-Niles,eng ENG,"DF,MF",Lyon,fr Ligue 1,28-257,29,2438,36,33,0.0,0.0,0.0,0.0,0.0,4,0.0,0.0
+Jordy Makengo,fr FRA,DF,Freiburg,de Bundesliga,24-283,19,1088,9,11,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Tyrell Malacia,nl NED,DF,Manchester Utd,eng Premier League,26-269,2,9,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Julián Malatini,ar ARG,DF,Werder Bremen,de Bundesliga,24-347,11,516,6,6,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Lennard Maloney,us USA,"DF,MF",Mainz 05,de Bundesliga,26-217,20,471,8,8,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Gianluca Mancini,it ITA,DF,Roma,it Serie A,30-026,34,2887,26,42,0.0,0.0,0.0,0.0,0.0,2,0.0,0.0
+Reinildo Mandava,mz MOZ,DF,Sunderland,eng Premier League,32-112,23,1786,20,29,0.0,0.0,0.0,0.0,0.0,1,0.0,0.0
+Aïssa Mandi,dz ALG,DF,Lille,fr Ligue 1,34-203,28,2334,21,43,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Filippo Mane,it ITA,DF,Dortmund,de Bundesliga,21-066,4,131,0,2,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Brad Mantsounga,cg CGO,DF,Nice,fr Ligue 1,18-249,1,90,3,0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Alessandro Marcandalli,it ITA,DF,Genoa,it Serie A,23-200,30,2425,20,17,0.0,0.0,0.0,0.0,0.0,2,0.0,0.0
+Marcão,br BRA,DF,Sevilla,es La Liga,29-342,13,938,4,4,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Pablo Marí,es ESP,DF,Fiorentina,it Serie A,32-255,11,808,8,19,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+José María Giménez,uy URU,DF,Atlético Madrid,es La Liga,31-113,16,1178,12,15,0.0,0.0,0.0,0.0,0.0,1,0.0,0.0
+Luca Marianucci,it ITA,DF,Torino,it Serie A,21-294,9,530,4,8,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Luca Marianucci,it ITA,DF,Napoli,it Serie A,21-294,2,119,2,1,0.0,0.0,0.0,0.0,0.0,1,0.0,0.0
+Rafa Marín,es ESP,DF,Villarreal,es La Liga,23-359,21,1799,22,20,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+João Mário Lopes,pt POR,"DF,MF",Bologna,it Serie A,26-130,9,645,4,9,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Guillermo Maripán,cl CHI,DF,Torino,it Serie A,32-007,26,2100,28,27,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Marquinhos,br BRA,DF,Paris Saint-Germain,fr Ligue 1,31-364,13,962,9,6,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Eric Martel,de GER,"MF,DF",Köln,de Bundesliga,24-014,30,2469,30,34,0.0,0.0,0.0,0.0,0.0,2,0.0,0.0
+Aarón Martín,es ESP,"MF,DF",Genoa,it Serie A,29-021,31,2096,26,10,0.0,0.0,0.0,0.0,0.0,5,0.0,0.0
+Gerard Martín,es ESP,DF,Barcelona,es La Liga,24-076,30,1939,26,29,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Jon Martin,es ESP,DF,Real Sociedad,es La Liga,20-020,23,2070,16,34,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Arnau Martinez,es ESP,"DF,MF",Girona,es La Liga,23-018,32,2443,36,34,0.0,0.0,0.0,0.0,0.0,2,0.0,0.0
+Daniel Martinez,es ESP,DF,Atlético Madrid,es La Liga,22-008,1,90,0,1,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Joaquín Martínez Gauna,es ESP,"MF,DF",Sevilla,es La Liga,22-308,18,1165,17,5,0.0,0.0,0.0,0.0,0.0,3,0.0,0.0
+Lisandro Martínez,ar ARG,DF,Manchester Utd,eng Premier League,28-115,16,1053,9,11,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Ramón Martínez,es ESP,DF,Sevilla,es La Liga,23-203,2,102,0,1,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Adam Marušić,me MNE,DF,Lazio,it Serie A,33-208,31,2610,16,32,0.0,0.0,0.0,0.0,0.0,2,0.0,0.0
+Omar Mascarell,gq EQG,"MF,DF",Mallorca,es La Liga,33-100,28,2097,27,33,0.0,0.0,0.0,0.0,0.0,2,0.0,0.0
+Adam Masina,ma MAR,DF,Torino,it Serie A,32-131,5,235,4,5,0.0,0.0,0.0,0.0,0.0,1,0.0,0.0
+Arthur Masuaku,cd COD,DF,Sunderland,eng Premier League,32-187,3,126,2,2,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Arthur Masuaku,cd COD,DF,Lens,fr Ligue 1,32-187,3,137,3,1,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Clinton Mata,ao ANG,DF,Lyon,fr Ligue 1,33-187,31,2743,21,26,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Chrislain Matsima,fr FRA,DF,Augsburg,de Bundesliga,23-363,17,1429,10,30,0.0,0.0,0.0,0.0,0.0,1,0.0,0.0
+Alan Matturro,uy URU,DF,Levante,es La Liga,21-214,19,947,13,6,0.0,0.0,0.0,0.0,0.0,1,0.0,0.0
+Konstantinos Mavropanos,gr GRE,DF,West Ham United,eng Premier League,28-153,29,2354,20,44,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Christian Mawissa,fr FRA,"DF,MF",Monaco,fr Ligue 1,21-025,17,1101,24,15,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Ezra Mayers,bb BRB,DF,West Ham United,eng Premier League,19-117,6,117,0,1,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Noussair Mazraoui,ma MAR,"DF,MF",Manchester Utd,eng Premier League,28-180,19,912,15,10,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Chancel Mbemba,cd COD,DF,Lille,fr Ligue 1,31-278,13,954,8,13,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Michel Mboula,ga GAB,"DF,MF",Metz,fr Ligue 1,23-013,13,740,10,15,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Moustapha Mbow,sn SEN,DF,Paris FC,fr Ligue 1,26-066,31,2717,33,38,0.0,0.0,0.0,0.0,0.0,1,0.0,0.0
+Mark McKenzie,us USA,DF,Toulouse,fr Ligue 1,27-077,29,2404,30,25,0.0,0.0,0.0,0.0,0.0,2,0.0,0.0
+Facundo Medina,ar ARG,DF,Marseille,fr Ligue 1,26-350,16,1275,13,21,0.0,0.0,0.0,0.0,0.0,1,0.0,0.0
+Bamo Meïté,ci CIV,DF,Lorient,fr Ligue 1,24-161,24,1961,15,13,0.0,0.0,0.0,0.0,0.0,3,0.0,0.0
+Nuno Mendes,pt POR,DF,Paris Saint-Germain,fr Ligue 1,23-328,20,1256,20,14,0.0,0.0,0.0,0.0,0.0,5,0.0,0.0
+Antoine Mendy,sn SEN,DF,Nice,fr Ligue 1,21-351,24,2007,35,18,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Ferland Mendy,fr FRA,DF,Real Madrid,es La Liga,30-339,5,207,1,2,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Formose Mendy,sn SEN,DF,Lorient,fr Ligue 1,25-131,2,135,1,3,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Nobel Mendy,sn SEN,DF,Rayo Vallecano,es La Liga,21-252,22,1617,12,23,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Gideon Mensah,gh GHA,DF,Auxerre,fr Ligue 1,27-299,29,2237,36,23,0.0,0.0,0.0,0.0,0.0,1,0.0,0.0
+Quentin Merlin,fr FRA,"DF,MF",Rennes,fr Ligue 1,23-362,32,2443,37,27,0.0,0.0,0.0,0.0,0.0,5,0.0,0.0
+Karol Mets,ee EST,DF,St Pauli,de Bundesliga,32-362,23,1932,22,22,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Thomas Meunier,be BEL,DF,Lille,fr Ligue 1,34-243,25,1909,18,17,0.0,0.0,0.0,0.0,0.0,2,0.0,0.0
+William Mikelbrencis,fr FRA,"MF,DF",Hamburger SV,de Bundesliga,22-077,25,1370,22,6,0.0,0.0,0.0,0.0,0.0,4,0.0,0.0
+Nikola Milenković,rs SRB,DF,Nottingham Forest,eng Premier League,28-213,36,3195,18,29,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Lewis Miley,eng ENG,"MF,DF",Newcastle United,eng Premier League,20-012,23,1496,18,20,0.0,0.0,0.0,0.0,0.0,4,0.0,0.0
+Éder Militão,br BRA,DF,Real Madrid,es La Liga,28-115,16,1139,16,10,0.0,0.0,0.0,0.0,0.0,1,0.0,0.0
+Veljko Milosavljević,rs SRB,DF,Bournemouth,eng Premier League,18-319,7,368,4,4,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Kim Min-jae,kr KOR,DF,Bayern Munich,de Bundesliga,29-179,25,1602,19,38,0.0,0.0,0.0,0.0,0.0,1,0.0,0.0
+Yerry Mina,co COL,DF,Cagliari,it Serie A,31-232,24,1970,17,23,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Tyrone Mings,eng ENG,DF,Aston Villa,eng Premier League,33-061,16,1234,2,10,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Juan Miranda,es ESP,DF,Bologna,it Serie A,26-114,30,2393,30,32,0.0,0.0,0.0,0.0,0.0,3,0.0,0.0
+Maximilian Mittelstädt,de GER,"DF,MF",Stuttgart,de Bundesliga,29-056,31,2114,42,33,0.0,0.0,0.0,0.0,0.0,4,0.0,0.0
+Branimir Mlacic,hr CRO,DF,Udinese,it Serie A,19-062,6,155,3,2,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Johan Mojica,co COL,DF,Mallorca,es La Liga,33-265,34,2640,30,23,0.0,0.0,0.0,0.0,0.0,4,0.0,0.0
+Nahuel Molina,ar ARG,"DF,MF",Atlético Madrid,es La Liga,28-037,26,1331,24,14,0.0,0.0,0.0,0.0,0.0,2,0.0,0.0
+Jorge Montes,es ESP,DF,Getafe,es La Liga,22-068,1,27,2,0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Morato,br BRA,DF,Nottingham Forest,eng Premier League,24-317,19,1165,16,9,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Alberto Moreno,es ESP,DF,Como,it Serie A,33-312,17,1068,10,7,0.0,0.0,0.0,0.0,0.0,1,0.0,0.0
+Álex Moreno,es ESP,DF,Girona,es La Liga,32-339,28,2289,23,25,0.0,0.0,0.0,0.0,0.0,3,0.0,0.0
+Matias Moreno,ar ARG,DF,Levante,es La Liga,22-231,26,2072,25,32,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Mateu Morey,es ESP,"DF,MF",Mallorca,es La Liga,26-072,18,704,8,6,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Cristhian Mosquera,es ESP,DF,Arsenal,eng Premier League,21-320,18,814,19,8,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Yerson Mosquera,co COL,DF,Wolves,eng Premier League,25-011,25,1956,33,22,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Santiago Mouriño,uy URU,DF,Villarreal,es La Liga,24-089,26,2197,61,27,0.0,0.0,0.0,0.0,0.0,2,0.0,0.0
+Tarik Muharemovic,ba BIH,DF,Sassuolo,it Serie A,23-074,31,2745,24,45,0.0,0.0,0.0,0.0,0.0,2,0.0,0.0
+Miro Muheim,ch SUI,"MF,DF",Hamburger SV,de Bundesliga,28-050,28,2407,35,27,0.0,0.0,0.0,0.0,0.0,4,0.0,0.0
+Nordi Mukiele,fr FRA,DF,Sunderland,eng Premier League,28-193,30,2604,44,33,0.0,0.0,0.0,0.0,0.0,3,0.0,0.0
+Abdul Mumin,gh GHA,DF,Rayo Vallecano,es La Liga,27-341,1,10,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Aihen Muñoz,es ESP,DF,Real Sociedad,es La Liga,28-270,19,769,17,5,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Murillo,br BRA,DF,Nottingham Forest,eng Premier League,23-313,25,2130,23,29,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Alex Murphy,ie IRL,DF,Newcastle United,eng Premier League,21-322,1,2,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Joel Mvuka,no NOR,"MF,DF",Lorient,fr Ligue 1,23-182,15,560,13,6,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Junior Mwanga,fr FRA,"DF,MF",Strasbourg,fr Ligue 1,23-002,5,377,8,1,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Vitaliy Mykolenko,ua UKR,DF,Everton,eng Premier League,26-349,31,2778,24,27,0.0,0.0,0.0,0.0,0.0,1,0.0,0.0
+Joakim Mæhle,dk DEN,"MF,DF",Wolfsburg,de Bundesliga,28-358,15,1132,21,19,0.0,0.0,0.0,0.0,0.0,2,0.0,0.0
+David Møller Wolfe,no NOR,"MF,DF",Wolves,eng Premier League,24-020,20,892,5,6,0.0,0.0,0.0,0.0,0.0,2,0.0,0.0
+Obite N'Dicka,ci CIV,DF,Roma,it Serie A,26-266,30,2644,16,43,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Stanley N'Soki,fr FRA,"DF,MF",Union Berlin,de Bundesliga,27-034,13,816,9,18,0.0,0.0,0.0,0.0,0.0,2,0.0,0.0
+Mahamadou Nagida,cm CMR,DF,Rennes,fr Ligue 1,20-319,18,715,10,19,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Shafiq Nandja,de GER,DF,Hamburger SV,de Bundesliga,19-118,1,1,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Natan,br BRA,DF,Real Betis,es La Liga,25-096,31,2639,17,35,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Pau Navarro,es ESP,DF,Villarreal,es La Liga,21-018,21,1741,35,18,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Corrie Ndaba,ie IRL,DF,Lecce,it Serie A,26-139,14,543,4,3,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Kosta Nedeljković,rs SRB,DF,RB Leipzig,de Bundesliga,20-148,5,251,1,1,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Loïc Nego,hu HUN,"DF,MF",Le Havre,fr Ligue 1,35-118,29,2321,36,32,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Victor Nelsson,dk DEN,DF,Hellas Verona,it Serie A,27-211,36,3135,42,73,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Luca Netz,de GER,"MF,DF",Gladbach,de Bundesliga,22-363,15,940,10,7,0.0,0.0,0.0,0.0,0.0,2,0.0,0.0
+Luca Netz,de GER,"MF,DF",Nottingham Forest,eng Premier League,22-363,5,246,8,0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Cenny Neumann,de GER,DF,Köln,de Bundesliga,19-121,2,74,1,1,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Mikayil Ngor Faye,sn SEN,"MF,DF",Cremonese,it Serie A,21-303,8,254,6,5,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Nathan Ngoy,be BEL,DF,Lille,fr Ligue 1,22-337,28,2315,20,36,0.0,0.0,0.0,0.0,0.0,2,0.0,0.0
+Moussa Niakhate,sn SEN,DF,Lyon,fr Ligue 1,30-066,31,2669,22,32,0.0,0.0,0.0,0.0,0.0,2,0.0,0.0
+Abdoulaye Niakhate Ndiaye,sn SEN,DF,Parma,it Serie A,24-033,10,750,10,11,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Tanguy Nianzou,fr FRA,DF,Sevilla,es La Liga,23-340,12,655,10,4,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Samuel Nibombé,be BEL,DF,Monaco,fr Ligue 1,18-271,1,1,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Rasmus Nicolaisen,dk DEN,DF,Toulouse,fr Ligue 1,29-058,32,2564,16,40,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Oliver Nielsen,dk DEN,DF,Lazio,it Serie A,22-343,24,1401,5,13,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Niels Nkounkou,fr FRA,"MF,DF",Torino,it Serie A,25-193,10,327,9,8,0.0,0.0,0.0,0.0,0.0,1,0.0,0.0
+Tochukwu Nnadi,ng NGA,"MF,DF",Marseille,fr Ligue 1,22-317,7,270,2,2,0.0,0.0,0.0,0.0,0.0,1,0.0,0.0
+Brooke Norton-Cuffy,eng ENG,"MF,DF",Genoa,it Serie A,22-121,26,2181,30,11,0.0,0.0,0.0,0.0,0.0,1,0.0,0.0
+Matheus Nunes,pt POR,DF,Manchester City,eng Premier League,27-259,32,2715,41,28,0.0,0.0,0.0,0.0,0.0,5,0.0,0.0
+Álvaro Núñez,es ESP,"DF,MF",Elche,es La Liga,25-310,19,1647,15,15,0.0,0.0,0.0,0.0,0.0,2,0.0,0.0
+Álvaro Núñez,es ESP,"DF,MF",Celta Vigo,es La Liga,25-310,6,328,1,1,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Unai Núñez,es ESP,DF,Hellas Verona,it Serie A,29-103,17,1265,18,23,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Unai Núñez,es ESP,DF,Valencia,es La Liga,29-103,10,680,9,7,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Allan Nyom,cm CMR,DF,Getafe,es La Liga,38-003,12,300,5,1,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Jake O'Brien,ie IRL,DF,Everton,eng Premier League,24-363,35,2972,30,13,0.0,0.0,0.0,0.0,0.0,1,0.0,0.0
+Luke O'Nien,eng ENG,DF,Sunderland,eng Premier League,31-173,10,411,4,5,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Adam Obert,sk SVK,"DF,MF",Cagliari,it Serie A,23-263,33,2591,30,42,0.0,0.0,0.0,0.0,0.0,3,0.0,0.0
+Cas Odenthal,nl NED,DF,Sassuolo,it Serie A,25-229,1,1,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+David Odogu,de GER,DF,Milan,it Serie A,19-344,2,6,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Álvaro Odriozola,es ESP,DF,Real Sociedad,es La Liga,30-150,5,201,1,1,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Tim Oermann,de GER,DF,Leverkusen,de Bundesliga,22-219,2,18,1,0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Deniz Ofli,tr TUR,DF,Bayern Munich,de Bundesliga,19-045,1,6,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Ifechukwu Ogbus,ch SUI,DF,Freiburg,de Bundesliga,20-147,17,1158,15,12,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Bryan Okoh,ch SUI,DF,Auxerre,fr Ligue 1,22-362,13,1005,9,26,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Mathías Olivera,uy URU,"DF,MF",Napoli,it Serie A,28-194,23,1293,22,14,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Tuomas Ollila,fi FIN,DF,Paris FC,fr Ligue 1,26-019,10,308,1,4,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Warmed Omari,km COM,DF,Hamburger SV,de Bundesliga,26-020,19,1529,18,25,0.0,0.0,0.0,0.0,0.0,1,0.0,0.0
+Andrew Omobamidele,ie IRL,DF,Strasbourg,fr Ligue 1,23-324,23,1177,4,14,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Fredrik Oppegard,no NOR,"MF,DF",Auxerre,fr Ligue 1,23-279,23,1246,20,14,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Willi Orban,hu HUN,DF,RB Leipzig,de Bundesliga,33-191,32,2859,31,42,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Ángel Ortíz,es ESP,DF,Real Betis,es La Liga,21-292,13,584,19,1,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Asier Osambela,es ESP,DF,Osasuna,es La Liga,22-094,16,333,2,4,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Gabriel Osho,ng NGA,DF,Auxerre,fr Ligue 1,27-272,2,134,3,0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Sebastian Otoa,dk DEN,DF,Genoa,it Serie A,22-000,11,649,10,8,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Abdoul Ouattara,fr FRA,"MF,DF",Strasbourg,fr Ligue 1,20-203,26,1588,12,13,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Kassoum Ouattara,fr FRA,"MF,DF",Monaco,fr Ligue 1,21-211,15,967,19,19,0.0,0.0,0.0,0.0,0.0,3,0.0,0.0
+Latif Ouedraogo,bf BFA,DF,Genoa,it Serie A,18-202,1,20,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Max Oyedele,pl POL,"MF,DF",Strasbourg,fr Ligue 1,21-187,8,446,8,5,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Daniel Oyegoke,eng ENG,"MF,DF",Hellas Verona,it Serie A,23-130,15,594,9,7,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Cenk Özkacar,tr TUR,DF,Köln,de Bundesliga,25-219,24,1701,24,22,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Nico O’Reilly,eng ENG,"DF,MF",Manchester City,eng Premier League,21-053,33,2556,36,20,0.0,0.0,0.0,0.0,0.0,3,0.0,0.0
+Jon Pacheco,es ESP,DF,Alavés,es La Liga,25-125,22,1735,16,11,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Willian Pacho,ec ECU,DF,Paris Saint-Germain,fr Ligue 1,24-209,23,1914,26,26,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Marco Palestra,it ITA,"MF,DF",Cagliari,it Serie A,21-071,35,2963,33,18,0.0,0.0,0.0,0.0,0.0,4,0.0,0.0
+Matteo Palma,de GER,DF,Udinese,it Serie A,18-061,5,120,0,3,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Emerson Palmieri,it ITA,"DF,MF",Marseille,fr Ligue 1,31-283,27,2024,29,32,0.0,0.0,0.0,0.0,0.0,3,0.0,0.0
+Diego Pampín,es ESP,DF,Levante,es La Liga,26-059,8,534,5,5,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Leart Paqarada,xk KVX,DF,Heidenheim,de Bundesliga,31-217,1,6,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Victor Parada,es ESP,DF,Alavés,es La Liga,24-039,27,1945,14,8,0.0,0.0,0.0,0.0,0.0,3,0.0,0.0
+Aitor Paredes,es ESP,DF,Athletic Club,es La Liga,26-014,18,1540,12,24,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Patric,es ESP,"MF,DF",Lazio,it Serie A,33-026,14,667,0,3,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Nathan Patterson,sct SCO,DF,Everton,eng Premier League,24-209,7,241,4,2,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Benjamin Pavard,fr FRA,DF,Marseille,fr Ligue 1,30-046,26,1925,12,24,0.0,0.0,0.0,0.0,0.0,2,0.0,0.0
+Benjamin Pavard,fr FRA,DF,Inter,it Serie A,30-046,1,90,1,2,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Strahinja Pavlović,rs SRB,DF,Milan,it Serie A,24-354,32,2689,24,20,0.0,0.0,0.0,0.0,0.0,1,0.0,0.0
+Marcus Pedersen,no NOR,"MF,DF",Torino,it Serie A,25-301,27,1990,12,10,0.0,0.0,0.0,0.0,0.0,2,0.0,0.0
+Alfonso Pedraza,es ESP,DF,Villarreal,es La Liga,30-034,25,1533,30,25,0.0,0.0,0.0,0.0,0.0,3,0.0,0.0
+Zé Pedro Figueiredo,pt POR,DF,Cagliari,it Serie A,28-341,22,1637,18,20,0.0,0.0,0.0,0.0,0.0,1,0.0,0.0
+Adrià Pedrosa,es ESP,"DF,MF",Elche,es La Liga,28-000,24,1049,18,16,0.0,0.0,0.0,0.0,0.0,1,0.0,0.0
+Adrià Pedrosa,es ESP,"DF,MF",Sevilla,es La Liga,28-000,1,6,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Luca Pellegrini,it ITA,DF,Lazio,it Serie A,27-067,23,1388,15,16,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Timothee Pembele,fr FRA,"MF,DF",Le Havre,fr Ligue 1,23-246,13,336,4,2,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Kojo Peprah Oppong,gh GHA,DF,Nice,fr Ligue 1,21-343,28,2335,26,28,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Ángel Pérez,es ESP,"MF,DF",Alavés,es La Liga,23-257,13,1018,12,6,0.0,0.0,0.0,0.0,0.0,3,0.0,0.0
+Joselu Pérez,es ESP,DF,Getafe,es La Liga,22-062,2,22,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Matías Pérez,cl CHI,DF,Lecce,it Serie A,21-030,1,31,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Nacho Pérez,es ESP,DF,Levante,es La Liga,17-254,2,80,1,1,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Romain Perraud,fr FRA,DF,Lille,fr Ligue 1,28-233,29,2196,29,23,0.0,0.0,0.0,0.0,0.0,4,0.0,0.0
+Léo Pétrot,fr FRA,DF,Elche,es La Liga,29-028,31,1571,22,17,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Giuseppe Pezzella,it ITA,"MF,DF",Cremonese,it Serie A,28-165,29,2405,31,11,0.0,0.0,0.0,0.0,0.0,1,0.0,0.0
+Amos Pieper,de GER,DF,Werder Bremen,de Bundesliga,28-116,18,1457,24,25,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Ethan Pinnock,jm JAM,DF,Brentford,eng Premier League,32-349,4,318,5,5,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Marin Pongračić,hr CRO,DF,Fiorentina,it Serie A,28-244,33,2804,15,35,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Pedro Porro,es ESP,DF,Tottenham Hotspur,eng Premier League,26-242,32,2616,45,30,0.0,0.0,0.0,0.0,0.0,2,0.0,0.0
+Stefan Posch,at AUT,DF,Como,it Serie A,28-364,14,393,3,4,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Stefan Posch,at AUT,DF,Mainz 05,de Bundesliga,28-364,15,1350,22,20,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Kacper Potulski,pl POL,DF,Mainz 05,de Bundesliga,18-206,14,975,13,19,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Marc Pubill,es ESP,DF,Atlético Madrid,es La Liga,22-327,17,1246,13,17,0.0,0.0,0.0,0.0,0.0,1,0.0,0.0
+Aleksa Puric,rs SRB,DF,Atlético Madrid,es La Liga,22-310,1,1,0,1,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Jarell Quansah,eng ENG,DF,Leverkusen,de Bundesliga,23-104,27,2209,21,24,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Leopold Querfeld,at AUT,DF,Union Berlin,de Bundesliga,22-144,30,2700,27,35,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Uroš Radaković,rs SRB,DF,Nantes,fr Ligue 1,32-043,6,101,2,4,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Antonio Raillo,es ESP,DF,Mallorca,es La Liga,34-217,23,2032,13,12,0.0,0.0,0.0,0.0,0.0,1,0.0,0.0
+Jacobo Ramón,es ESP,DF,Como,it Serie A,21-127,30,2562,31,34,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Guilherme Ramos,pt POR,DF,Hamburger SV,de Bundesliga,28-275,8,48,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Luca Ranieri,it ITA,DF,Fiorentina,it Serie A,27-020,33,2395,24,24,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Lilian Raolisoa,fr FRA,"MF,DF",Angers,fr Ligue 1,25-331,31,1876,29,13,0.0,0.0,0.0,0.0,0.0,4,0.0,0.0
+Othniel Raterink,nl NED,DF,Cagliari,it Serie A,20-036,1,7,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Andrei Ratiu,ro ROU,DF,Rayo Vallecano,es La Liga,27-327,32,2696,40,39,0.0,0.0,0.0,0.0,0.0,3,0.0,0.0
+David Raum,de GER,DF,RB Leipzig,de Bundesliga,28-021,30,2553,35,33,0.0,0.0,0.0,0.0,0.0,7,0.0,0.0
+Abde Rebbach,dz ALG,"MF,DF",Alavés,es La Liga,27-275,27,1271,16,14,0.0,0.0,0.0,0.0,0.0,3,0.0,0.0
+Luca Reggiani,it ITA,DF,Dortmund,de Bundesliga,18-124,7,421,10,2,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Vitor Reis,br BRA,DF,Girona,es La Liga,20-121,33,2868,30,33,0.0,0.0,0.0,0.0,0.0,1,0.0,0.0
+Chadi Riad,ma MAR,DF,Crystal Palace,eng Premier League,22-330,7,389,3,1,0.0,0.0,0.0,0.0,0.0,1,0.0,0.0
+Alexsandro Ribeiro,br BRA,DF,Lille,fr Ligue 1,26-277,9,509,9,11,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Chris Richards,us USA,DF,Crystal Palace,eng Premier League,26-046,31,2707,33,42,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Diego Rico,es ESP,DF,Getafe,es La Liga,33-079,28,1758,29,33,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Clemens Riedel,de GER,DF,Espanyol,es La Liga,22-298,18,1216,13,10,0.0,0.0,0.0,0.0,0.0,1,0.0,0.0
+Hugo Rincón,es ESP,DF,Girona,es La Liga,23-106,32,1717,31,5,0.0,0.0,0.0,0.0,0.0,1,0.0,0.0
+Mihailo Ristić,rs SRB,"MF,DF",Celta Vigo,es La Liga,30-194,5,253,0,2,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Lars Ritzka,de GER,"MF,DF",St Pauli,de Bundesliga,28-006,21,966,26,13,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Andrew Robertson,sct SCO,DF,Liverpool,eng Premier League,32-063,23,1094,10,6,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Antonee Robinson,us USA,"DF,MF",Fulham,eng Premier League,28-278,20,1312,27,23,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Kaden Rodney,eng ENG,"DF,MF",Crystal Palace,eng Premier League,21-218,1,4,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Joe Rodon,wls WAL,DF,Leeds United,eng Premier League,28-203,33,2771,18,29,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Javi Rodríguez,es ESP,DF,Celta Vigo,es La Liga,22-321,31,2378,22,26,0.0,0.0,0.0,0.0,0.0,1,0.0,0.0
+Juan Rodríguez,uy URU,DF,Cagliari,it Serie A,20-348,15,1240,26,17,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Ricardo Rodríguez,ch SUI,DF,Real Betis,es La Liga,33-261,22,1457,12,8,0.0,0.0,0.0,0.0,0.0,1,0.0,0.0
+Filippo Romagna,it ITA,DF,Sassuolo,it Serie A,28-352,5,313,1,5,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Alessio Romagnoli,it ITA,DF,Lazio,it Serie A,31-121,31,2576,14,31,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Carlos Romero,es ESP,DF,Espanyol,es La Liga,24-196,33,2921,56,35,0.0,0.0,0.0,0.0,0.0,2,0.0,0.0
+Cristian Romero,ar ARG,DF,Tottenham Hotspur,eng Premier League,28-016,23,1868,30,31,0.0,0.0,0.0,0.0,0.0,1,0.0,0.0
+Zaid Romero,ar ARG,DF,Getafe,es La Liga,26-149,12,1079,17,26,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Pablo Rosario,do DOM,"DF,MF",Nice,fr Ligue 1,29-126,1,28,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Max Rosenfelder,de GER,DF,Freiburg,de Bundesliga,23-092,12,492,5,5,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Valentin Rosier,fr FRA,"DF,MF",Osasuna,es La Liga,29-267,29,2380,30,42,0.0,0.0,0.0,0.0,0.0,1,0.0,0.0
+Tom Rothe,de GER,"MF,DF",Union Berlin,de Bundesliga,21-196,20,939,13,19,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Anthony Rouault,fr FRA,DF,Rennes,fr Ligue 1,24-349,20,1634,13,16,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+James Rowswell,eng ENG,DF,Tottenham Hotspur,eng Premier League,19-304,1,1,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Amir Rrahmani,xk KVX,DF,Napoli,it Serie A,32-078,19,1615,12,21,0.0,0.0,0.0,0.0,0.0,1,0.0,0.0
+Rubén,es ESP,"DF,MF",Espanyol,es La Liga,25-098,18,657,8,9,0.0,0.0,0.0,0.0,0.0,1,0.0,0.0
+Antonio Rüdiger,de GER,DF,Real Madrid,es La Liga,33-071,17,1400,4,4,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Daniele Rugani,it ITA,DF,Fiorentina,it Serie A,31-288,5,261,3,3,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Daniele Rugani,it ITA,DF,Juventus,it Serie A,31-288,6,250,3,5,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Matteo Ruggeri,it ITA,DF,Atlético Madrid,es La Liga,23-306,24,1639,22,19,0.0,0.0,0.0,0.0,0.0,3,0.0,0.0
+Aitor Ruibal,es ESP,"DF,MF",Real Betis,es La Liga,30-052,27,1808,32,20,0.0,0.0,0.0,0.0,0.0,2,0.0,0.0
+Stefano Sabelli,it ITA,"MF,DF",Genoa,it Serie A,33-120,15,854,14,3,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Kike Salas,es ESP,DF,Sevilla,es La Liga,24-020,23,1933,28,35,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+William Saliba,fr FRA,DF,Arsenal,eng Premier League,25-050,30,2524,23,15,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+José Salinas,es ESP,DF,Espanyol,es La Liga,25-225,11,257,2,3,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Mohammed Salisu,gh GHA,DF,Monaco,fr Ligue 1,27-026,12,1080,11,19,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Antonio Sánchez,es ESP,"MF,DF",Mallorca,es La Liga,29-132,28,1019,11,15,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Juanlu Sánchez,es ESP,"MF,DF",Sevilla,es La Liga,22-271,30,1945,42,11,0.0,0.0,0.0,0.0,0.0,3,0.0,0.0
+Manu Sánchez,es ESP,DF,Levante,es La Liga,25-262,31,2634,49,34,0.0,0.0,0.0,0.0,0.0,2,0.0,0.0
+Philipp Sander,de GER,"DF,MF",Gladbach,de Bundesliga,28-081,29,2360,40,48,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Sadibou Sané,sn SEN,DF,Metz,fr Ligue 1,21-337,22,1850,33,39,0.0,0.0,0.0,0.0,0.0,1,0.0,0.0
+Arouna Sangante,sn SEN,DF,Le Havre,fr Ligue 1,24-031,27,2235,25,35,0.0,0.0,0.0,0.0,0.0,1,0.0,0.0
+Buba Sangaré,es ESP,"DF,MF",Elche,es La Liga,18-280,10,487,12,6,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Nhoa Sangui,fr FRA,DF,Paris FC,fr Ligue 1,20-075,26,1737,14,21,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Tiago Santos,pt POR,DF,Lille,fr Ligue 1,23-294,15,709,8,5,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Renzo Saravia,ar ARG,DF,Valencia,es La Liga,32-331,4,320,5,6,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Bouna Sarr,sn SEN,"MF,DF",Metz,fr Ligue 1,34-102,11,805,10,9,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Malang Sarr,fr FRA,DF,Lens,fr Ligue 1,27-110,31,2790,42,73,0.0,0.0,0.0,0.0,0.0,1,0.0,0.0
+Mamadou Sarr,sn SEN,DF,Strasbourg,fr Ligue 1,20-257,15,1305,13,5,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Mamadou Sarr,sn SEN,DF,Chelsea,eng Premier League,20-257,2,92,0,1,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Nicolò Savona,it ITA,DF,Nottingham Forest,eng Premier League,23-055,14,1028,12,5,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Joe Scally,us USA,"MF,DF",Gladbach,de Bundesliga,23-133,31,2518,25,18,0.0,0.0,0.0,0.0,0.0,3,0.0,0.0
+Giorgio Scalvini,it ITA,DF,Atalanta,it Serie A,22-153,22,1652,20,38,0.0,0.0,0.0,0.0,0.0,1,0.0,0.0
+Oliver Scarles,eng ENG,"DF,MF",West Ham United,eng Premier League,20-152,13,659,19,13,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Fabian Schär,ch SUI,DF,Newcastle United,eng Premier League,34-144,16,1091,9,16,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Keven Schlotterbeck,de GER,DF,Augsburg,de Bundesliga,29-015,24,2031,25,33,0.0,0.0,0.0,0.0,0.0,1,0.0,0.0
+Nico Schlotterbeck,de GER,DF,Dortmund,de Bundesliga,26-163,27,2430,35,23,0.0,0.0,0.0,0.0,0.0,1,0.0,0.0
+Joël Schmied,ch SUI,DF,Köln,de Bundesliga,27-232,15,1033,9,10,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Sebastian Sebulonsen,no NOR,"DF,MF",Köln,de Bundesliga,26-106,30,2408,26,17,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Jenson Seelt,nl NED,DF,Wolfsburg,de Bundesliga,22-355,9,681,9,5,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Jenson Seelt,nl NED,DF,Sunderland,eng Premier League,22-355,2,134,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Alidu Seidu,gh GHA,DF,Rennes,fr Ligue 1,25-343,21,1186,22,17,0.0,0.0,0.0,0.0,0.0,1,0.0,0.0
+Ayumu Seko,jp JPN,"MF,DF",Le Havre,fr Ligue 1,25-340,30,2625,24,35,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Marvin Senaya,gh GHA,"DF,MF",Auxerre,fr Ligue 1,25-105,24,1771,31,34,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Marcos Senesi,ar ARG,DF,Bournemouth,eng Premier League,29-003,35,3108,31,49,0.0,0.0,0.0,0.0,0.0,5,0.0,0.0
+Ryan Sessegnon,eng ENG,"DF,MF",Fulham,eng Premier League,25-360,27,1823,29,23,0.0,0.0,0.0,0.0,0.0,1,0.0,0.0
+Luke Shaw,eng ENG,DF,Manchester Utd,eng Premier League,30-305,36,3048,43,40,0.0,0.0,0.0,0.0,0.0,1,0.0,0.0
+Djibril Sidibé,fr FRA,"MF,DF",Toulouse,fr Ligue 1,33-288,32,2141,32,18,0.0,0.0,0.0,0.0,0.0,4,0.0,0.0
+Jamil Siebert,de GER,DF,Lecce,it Serie A,24-041,19,1521,15,15,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Francisco Sierralta,cl CHI,DF,Auxerre,fr Ligue 1,29-007,10,861,6,9,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Tim Siersleben,de GER,DF,Heidenheim,de Bundesliga,26-065,15,1081,16,21,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Caio Henrique Oliveira Silva,br BRA,"DF,MF",Monaco,fr Ligue 1,28-286,22,1536,11,12,0.0,0.0,0.0,0.0,0.0,2,0.0,0.0
+Jahmai Simpson-Pusey,eng ENG,DF,Köln,de Bundesliga,20-190,10,773,7,12,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Dan Sinaté,fr FRA,DF,Angers,fr Ligue 1,19-338,3,33,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Ibrahima Sissoko,ml MLI,"MF,DF",Nantes,fr Ligue 1,28-198,13,803,7,16,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Telli Siwe,fr FRA,DF,Auxerre,fr Ligue 1,21-150,3,225,3,4,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Ellyes Skhiri,tn TUN,"MF,DF",Eintracht Frankfurt,de Bundesliga,31-003,24,1354,7,24,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Leo Skiri Østigård,no NOR,DF,Genoa,it Serie A,26-166,30,2622,27,30,0.0,0.0,0.0,0.0,0.0,1,0.0,0.0
+Robert Skov,dk DEN,"DF,MF",Union Berlin,de Bundesliga,29-358,3,220,5,2,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Tobias Slotsager,dk DEN,DF,Hellas Verona,it Serie A,20-132,8,446,7,3,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Adam Smith,eng ENG,DF,Bournemouth,eng Premier League,35-014,20,899,11,7,0.0,0.0,0.0,0.0,0.0,2,0.0,0.0
+Eric Smith,se SWE,"DF,MF",St Pauli,de Bundesliga,29-125,27,2311,23,24,0.0,0.0,0.0,0.0,0.0,2,0.0,0.0
+Ivan Smolčić,hr CRO,DF,Como,it Serie A,25-269,26,1552,24,23,0.0,0.0,0.0,0.0,0.0,1,0.0,0.0
+Alex Sola,es ESP,"DF,FW",Getafe,es La Liga,26-338,1,13,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Julio Soler,ar ARG,DF,Bournemouth,eng Premier League,21-086,3,35,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Oumar Solet,fr FRA,DF,Udinese,it Serie A,26-095,33,2779,53,41,0.0,0.0,0.0,0.0,0.0,1,0.0,0.0
+Oliver Sonne,pe PER,DF,Burnley,eng Premier League,25-184,7,169,1,1,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Borna Sosa,hr CRO,"DF,MF",Crystal Palace,eng Premier League,28-112,7,101,0,2,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Aboubaka Soumahoro,fr FRA,"MF,DF",Hamburger SV,de Bundesliga,21-098,4,136,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Djed Spence,eng ENG,"DF,MF",Tottenham Hotspur,eng Premier League,25-277,28,1943,24,15,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Leonardo Spinazzola,it ITA,"MF,DF",Napoli,it Serie A,33-049,31,1823,9,4,0.0,0.0,0.0,0.0,0.0,3,0.0,0.0
+Josip Stanišić,hr CRO,DF,Bayern Munich,de Bundesliga,26-041,25,1812,20,18,0.0,0.0,0.0,0.0,0.0,3,0.0,0.0
+Carl Starfelt,se SWE,DF,Celta Vigo,es La Liga,30-346,19,1491,16,16,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Niklas Stark,de GER,DF,Werder Bremen,de Bundesliga,31-029,14,697,12,13,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Leonidas Stergiou,ch SUI,DF,Heidenheim,de Bundesliga,24-071,5,206,3,1,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Leonidas Stergiou,ch SUI,DF,Stuttgart,de Bundesliga,24-071,1,1,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Finley Stevens,wls WAL,DF,St Pauli,de Bundesliga,23-033,1,27,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+John Stones,eng ENG,DF,Manchester City,eng Premier League,31-350,7,353,0,2,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Pascal Struijk,nl NED,DF,Leeds United,eng Premier League,26-275,33,2846,22,30,0.0,0.0,0.0,0.0,0.0,1,0.0,0.0
+Gabriel Suazo,cl CHI,"DF,MF",Sevilla,es La Liga,28-277,26,1826,61,24,0.0,0.0,0.0,0.0,0.0,2,0.0,0.0
+Yukinari Sugawara,jp JPN,"DF,MF",Werder Bremen,de Bundesliga,25-319,31,2428,22,15,0.0,0.0,0.0,0.0,0.0,6,0.0,0.0
+Niklas Süle,de GER,DF,Dortmund,de Bundesliga,30-252,11,486,5,6,0.0,0.0,0.0,0.0,0.0,1,0.0,0.0
+Lamine Sy,mr MTN,DF,Auxerre,fr Ligue 1,23-276,23,1446,28,21,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Abakar Sylla,ci CIV,DF,Strasbourg,fr Ligue 1,23-139,1,2,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Abakar Sylla,ci CIV,DF,Nantes,fr Ligue 1,23-139,2,65,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Dominik Szoboszlai,hu HUN,"MF,DF",Liverpool,eng Premier League,25-200,34,3051,32,28,0.0,0.0,0.0,0.0,0.0,5,0.0,0.0
+Nicolás Tagliafico,ar ARG,DF,Lyon,fr Ligue 1,33-255,20,1310,14,17,0.0,0.0,0.0,0.0,0.0,3,0.0,0.0
+Jonathan Tah,de GER,DF,Bayern Munich,de Bundesliga,30-091,27,1928,18,25,0.0,0.0,0.0,0.0,0.0,1,0.0,0.0
+Kōta Takai,jp JPN,DF,Gladbach,de Bundesliga,21-251,8,342,4,4,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Montassar Talbi,tn TUN,DF,Lorient,fr Ligue 1,27-352,28,2520,18,27,0.0,0.0,0.0,0.0,0.0,1,0.0,0.0
+Adrien Tameze,cm CMR,DF,Torino,it Serie A,32-098,24,1120,12,19,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Axel Tapé,fr FRA,"MF,DF",Leverkusen,de Bundesliga,18-276,6,222,1,1,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Edmond Tapsoba,bf BFA,DF,Leverkusen,de Bundesliga,27-100,28,2485,14,20,0.0,0.0,0.0,0.0,0.0,3,0.0,0.0
+James Tarkowski,eng ENG,DF,Everton,eng Premier League,33-175,35,3150,29,27,0.0,0.0,0.0,0.0,0.0,3,0.0,0.0
+César Tárrega,es ESP,DF,Valencia,es La Liga,24-076,29,2328,21,21,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Tylel Tati,fr FRA,DF,Nantes,fr Ligue 1,18-114,20,1721,13,14,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Nuno Tavares,pt POR,DF,Lazio,it Serie A,26-107,22,1383,20,17,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Jackson Tchatchoua,cm CMR,"MF,DF",Wolves,eng Premier League,24-241,31,1845,15,14,0.0,0.0,0.0,0.0,0.0,1,0.0,0.0
+Nahuel Tenaglia,ar ARG,DF,Alavés,es La Liga,30-081,33,2969,40,41,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Filippo Terracciano,it ITA,DF,Cremonese,it Serie A,23-094,34,2839,23,54,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Kenny Tete,nl NED,DF,Fulham,eng Premier League,30-216,22,1791,38,26,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Jordan Teze,nl NED,"MF,DF",Monaco,fr Ligue 1,26-225,32,2423,44,29,0.0,0.0,0.0,0.0,0.0,2,0.0,0.0
+Arthur Theate,be BEL,DF,Eintracht Frankfurt,de Bundesliga,25-353,24,2141,21,34,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Malick Thiaw,de GER,DF,Newcastle United,eng Premier League,24-278,33,2785,31,26,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Jurriën Timber,nl NED,DF,Arsenal,eng Premier League,24-330,30,2454,35,24,0.0,0.0,0.0,0.0,0.0,5,0.0,0.0
+Jean-Clair Todibo,fr FRA,DF,West Ham United,eng Premier League,26-134,22,1789,24,16,0.0,0.0,0.0,0.0,0.0,1,0.0,0.0
+Jeremy Toljan,de GER,DF,Levante,es La Liga,31-278,35,3052,38,31,0.0,0.0,0.0,0.0,0.0,4,0.0,0.0
+Fikayo Tomori,eng ENG,DF,Milan,it Serie A,28-145,31,2419,39,26,0.0,0.0,0.0,0.0,0.0,2,0.0,0.0
+Jofre Torrents,es ESP,DF,Barcelona,es La Liga,19-105,3,50,2,0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Pau Torres,es ESP,DF,Aston Villa,eng Premier League,29-117,19,1568,13,11,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Jordan Torunarigha,de GER,DF,Hamburger SV,de Bundesliga,28-279,23,1874,21,28,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Ousmane Toure,fr FRA,DF,Lille,fr Ligue 1,21-084,1,51,0,2,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Souleymane Touré,fr FRA,DF,Lorient,fr Ligue 1,23-046,1,29,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Lucas Tousart,fr FRA,"MF,DF",Brest,fr Ligue 1,29-014,22,753,11,9,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Hamari Traoré,ml MLI,DF,Paris FC,fr Ligue 1,34-106,17,1143,22,18,0.0,0.0,0.0,0.0,0.0,1,0.0,0.0
+Omar Traoré,de GER,"DF,MF",Heidenheim,de Bundesliga,28-098,25,1456,11,17,0.0,0.0,0.0,0.0,0.0,2,0.0,0.0
+Philipp Treu,de GER,"DF,MF",Freiburg,de Bundesliga,25-161,27,2096,24,6,0.0,0.0,0.0,0.0,0.0,2,0.0,0.0
+Christopher Trimmel,at AUT,"MF,DF",Union Berlin,de Bundesliga,39-078,28,1797,24,8,0.0,0.0,0.0,0.0,0.0,3,0.0,0.0
+Kieran Trippier,eng ENG,DF,Newcastle United,eng Premier League,35-236,20,1502,12,7,0.0,0.0,0.0,0.0,0.0,1,0.0,0.0
+Mariano Troilo,ar ARG,DF,Parma,it Serie A,22-325,19,1445,15,14,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Adrien Truffert,fr FRA,DF,Bournemouth,eng Premier League,24-174,36,3199,49,42,0.0,0.0,0.0,0.0,0.0,3,0.0,0.0
+Heorhii Tsitaishvili,ge GEO,"MF,DF",Metz,fr Ligue 1,25-176,33,2449,12,14,0.0,0.0,0.0,0.0,0.0,2,0.0,0.0
+Axel Tuanzebe,cd COD,DF,Burnley,eng Premier League,28-180,12,1021,7,10,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Destiny Udogie,it ITA,"DF,MF",Tottenham Hotspur,eng Premier League,23-166,18,1182,17,7,0.0,0.0,0.0,0.0,0.0,1,0.0,0.0
+Matthieu Udol,fr FRA,"MF,DF",Lens,fr Ligue 1,30-054,32,2867,20,48,0.0,0.0,0.0,0.0,0.0,7,0.0,0.0
+Lukas Ullrich,de GER,"DF,MF",Gladbach,de Bundesliga,22-058,22,1215,15,20,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Dayot Upamecano,fr FRA,DF,Bayern Munich,de Bundesliga,27-198,23,1704,24,20,0.0,0.0,0.0,0.0,0.0,1,0.0,0.0
+Jan Urbich,de GER,DF,Gladbach,de Bundesliga,21-324,3,39,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Josha Vagnoman,de GER,"DF,MF",Stuttgart,de Bundesliga,25-153,26,1569,19,3,0.0,0.0,0.0,0.0,0.0,3,0.0,0.0
+Victor Valdepeñas,es ESP,DF,Real Madrid,es La Liga,19-205,1,77,3,0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Lautaro Valenti,ar ARG,DF,Parma,it Serie A,27-119,25,2102,29,26,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Nicolás Valentini,ar ARG,DF,Hellas Verona,it Serie A,25-037,19,1270,16,15,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Germán Valera,es ESP,"MF,DF",Elche,es La Liga,24-058,34,2678,37,21,0.0,0.0,0.0,0.0,0.0,5,0.0,0.0
+Emanuele Valeri,it ITA,"MF,DF",Parma,it Serie A,27-157,32,2548,31,20,0.0,0.0,0.0,0.0,0.0,2,0.0,0.0
+Martin Valjent,sk SVK,DF,Mallorca,es La Liga,30-153,34,3060,31,20,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Álex Valle,es ESP,DF,Como,it Serie A,22-018,28,2026,31,24,0.0,0.0,0.0,0.0,0.0,4,0.0,0.0
+Federico Valverde,uy URU,"MF,DF",Real Madrid,es La Liga,27-295,32,2650,25,23,0.0,0.0,0.0,0.0,0.0,8,0.0,0.0
+Ignace Van Der Brempt,be BEL,"DF,MF",Como,it Serie A,24-042,18,846,9,8,0.0,0.0,0.0,0.0,0.0,1,0.0,0.0
+Virgil van Dijk,nl NED,DF,Liverpool,eng Premier League,34-309,36,3240,15,21,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Vanderson,br BRA,"DF,MF",Monaco,fr Ligue 1,24-326,14,616,13,19,0.0,0.0,0.0,0.0,0.0,2,0.0,0.0
+Johan Vásquez,mx MEX,DF,Genoa,it Serie A,27-203,35,3125,37,46,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Denis Vavro,sk SVK,DF,Wolfsburg,de Bundesliga,30-033,16,1086,5,13,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+José Luis García Vayá,es ESP,"MF,DF",Valencia,es La Liga,27-275,28,2058,33,19,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Jesus Vazquez,es ESP,"DF,MF",Valencia,es La Liga,23-131,21,777,8,2,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Danilo Veiga,pt POR,DF,Lecce,it Serie A,23-230,34,2846,51,30,0.0,0.0,0.0,0.0,0.0,1,0.0,0.0
+Renato Veiga,pt POR,DF,Villarreal,es La Liga,22-288,31,2391,8,26,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Joël Veltman,nl NED,DF,Brighton,eng Premier League,34-118,23,993,17,19,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Micky van de Ven,nl NED,DF,Tottenham Hotspur,eng Premier League,25-024,33,2861,19,20,0.0,0.0,0.0,0.0,0.0,1,0.0,0.0
+Nikolas Veratschnig,at AUT,"MF,DF",Mainz 05,de Bundesliga,23-109,21,660,13,10,0.0,0.0,0.0,0.0,0.0,1,0.0,0.0
+Calvin Verdonk,id IDN,DF,Lille,fr Ligue 1,29-017,17,745,9,15,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Jozhua Vertrouwd,nl NED,DF,Rayo Vallecano,es La Liga,21-265,9,446,3,4,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Nacho Vidal,es ESP,DF,Oviedo,es La Liga,31-109,26,2103,30,29,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Mattia Viti,it ITA,"MF,DF",Fiorentina,it Serie A,24-109,10,265,4,3,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Martin Vitík,cz CZE,DF,Bologna,it Serie A,23-112,19,1325,22,8,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Daniel Vivian,es ESP,DF,Athletic Club,es La Liga,26-302,29,2429,36,33,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Mërgim Vojvoda,xk KVX,"MF,DF",Como,it Serie A,31-101,29,1583,4,14,0.0,0.0,0.0,0.0,0.0,2,0.0,0.0
+Stefan de Vrij,nl NED,DF,Inter,it Serie A,34-097,9,500,9,4,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Luka Vušković,hr CRO,DF,Hamburger SV,de Bundesliga,19-078,27,2352,17,36,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Hauke Wahl,de GER,DF,St Pauli,de Bundesliga,32-028,29,2502,32,28,0.0,0.0,0.0,0.0,0.0,1,0.0,0.0
+Kyle Walker,eng ENG,"DF,MF",Burnley,eng Premier League,35-350,34,2916,31,41,0.0,0.0,0.0,0.0,0.0,2,0.0,0.0
+Kyle Walker-Peters,eng ENG,DF,West Ham United,eng Premier League,29-030,22,1293,30,9,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Sebastian Walukiewicz,pl POL,DF,Sassuolo,it Serie A,26-038,34,2852,34,23,0.0,0.0,0.0,0.0,0.0,1,0.0,0.0
+Aaron Wan-Bissaka,cd COD,"DF,MF",West Ham United,eng Premier League,28-168,24,2019,23,40,0.0,0.0,0.0,0.0,0.0,2,0.0,0.0
+Timothy Weah,us USA,"MF,DF",Marseille,fr Ligue 1,26-080,28,2166,34,14,0.0,0.0,0.0,0.0,0.0,2,0.0,0.0
+Ben White,eng ENG,DF,Arsenal,eng Premier League,28-217,12,702,9,9,0.0,0.0,0.0,0.0,0.0,1,0.0,0.0
+Mats Wieffer,nl NED,DF,Brighton,eng Premier League,26-178,25,1813,41,24,0.0,0.0,0.0,0.0,0.0,3,0.0,0.0
+Neco Williams,wls WAL,DF,Nottingham Forest,eng Premier League,25-030,35,3024,58,42,0.0,0.0,0.0,0.0,0.0,3,0.0,0.0
+Maximilian Wöber,at AUT,DF,Werder Bremen,de Bundesliga,28-098,2,37,1,2,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Christopher Wooh,cm CMR,DF,Rennes,fr Ligue 1,24-237,2,64,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Joe Worrall,eng ENG,DF,Burnley,eng Premier League,29-123,11,500,2,6,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Terry Yegbe,gh GHA,DF,Metz,fr Ligue 1,25-108,23,1873,7,21,0.0,0.0,0.0,0.0,0.0,1,0.0,0.0
+Darlin Yongwa,cm CMR,"DF,MF",Lorient,fr Ligue 1,25-233,23,1312,24,11,0.0,0.0,0.0,0.0,0.0,1,0.0,0.0
+Leny Yoro,fr FRA,DF,Manchester Utd,eng Premier League,20-181,31,1723,19,30,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Ali Yousuf,ly LBY,DF,Nantes,fr Ligue 1,24-308,13,969,7,18,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Etienne Youte Kinkoue,fr FRA,"DF,MF",Le Havre,fr Ligue 1,24-119,8,329,3,0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Illia Zabarnyi,ua UKR,DF,Paris Saint-Germain,fr Ligue 1,23-254,26,2207,17,18,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Dan-Axel Zagadou,fr FRA,DF,Stuttgart,de Bundesliga,26-344,3,209,4,5,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Stephan Zagadou,fr FRA,DF,Le Havre,fr Ligue 1,17-201,8,495,5,1,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Warren Zaïre-Emery,fr FRA,"DF,MF",Paris Saint-Germain,fr Ligue 1,20-066,31,2390,29,11,0.0,0.0,0.0,0.0,0.0,4,0.0,0.0
+Denis Zakaria,ch SUI,"DF,MF",Monaco,fr Ligue 1,29-174,23,1941,24,40,0.0,0.0,0.0,0.0,0.0,1,0.0,0.0
+Gabriele Zappa,it ITA,DF,Cagliari,it Serie A,26-142,29,1417,17,17,0.0,0.0,0.0,0.0,0.0,3,0.0,0.0
+Nils Zätterström,se SWE,DF,Genoa,it Serie A,21-045,2,91,0,2,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Aaron Zehnter,de GER,"DF,MF",Wolfsburg,de Bundesliga,21-194,20,1456,10,16,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Jordan Zemura,zw ZIM,"MF,DF",Udinese,it Serie A,26-180,15,1017,17,6,0.0,0.0,0.0,0.0,0.0,1,0.0,0.0
+Cedric Zesiger,ch SUI,DF,Augsburg,de Bundesliga,27-323,26,1726,23,16,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Oleksandr Zinchenko,ua UKR,DF,Nottingham Forest,eng Premier League,29-149,5,353,6,2,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Jan Ziółkowski,pl POL,DF,Roma,it Serie A,20-342,16,483,14,7,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Luck Zogbé,ci CIV,DF,Brest,fr Ligue 1,21-050,9,288,5,3,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Nadir Zortea,it ITA,DF,Bologna,it Serie A,26-328,31,1794,17,20,0.0,0.0,0.0,0.0,0.0,2,0.0,0.0
+Yanis Zouaoui,dz ALG,"DF,MF",Le Havre,fr Ligue 1,28-017,30,2338,30,27,0.0,0.0,0.0,0.0,0.0,1,0.0,0.0
+Igor Zubeldia,es ESP,DF,Real Sociedad,es La Liga,29-044,22,1898,18,22,0.0,0.0,0.0,0.0,0.0,1,0.0,0.0
